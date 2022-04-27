@@ -1,4 +1,4 @@
-package add_two_numbers
+package problem0002
 
 import (
 	"fmt"

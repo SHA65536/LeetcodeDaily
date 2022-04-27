@@ -1,4 +1,4 @@
-package two_sum
+package problem0001
 
 import (
 	"testing"

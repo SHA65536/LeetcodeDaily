@@ -8,13 +8,13 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-type AddTwoNumbersResult struct {
+type Result struct {
 	L1       *ListNode
 	L2       *ListNode
 	Expected *ListNode
 }
 
-var AddTwoNumbersResults = []AddTwoNumbersResult{
+var Results = []Result{
 	{
 		L1:       MakeListNode(2, 4, 3),
 		L2:       MakeListNode(5, 6, 4),
@@ -44,7 +44,7 @@ var AddTwoNumbersResults = []AddTwoNumbersResult{
 
 func TestAddTwoNumbers(t *testing.T) {
 	assert := assert.New(t)
-	addTwoPrinter := func(r AddTwoNumbersResult, g *ListNode) string {
+	addTwoPrinter := func(r Result, g *ListNode) string {
 		return fmt.Sprintf(
 			"L1 - %s\nL2 - %s\nExp - %s\nGot - %s",
 			r.L1.String(),
@@ -53,7 +53,7 @@ func TestAddTwoNumbers(t *testing.T) {
 			g.String())
 	}
 
-	for _, res := range AddTwoNumbersResults {
+	for _, res := range Results {
 		want := res.Expected
 		got := addTwoNumbers(res.L1, res.L2)
 		assert.Equal(want, got, addTwoPrinter(res, got))

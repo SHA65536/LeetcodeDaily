@@ -5,8 +5,10 @@ Each problem is in it's own directory, with test files. There are helper package
 
 ## Problems
 
-| Number | Name | Link |
-| :--- | :--- | :--- |
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0001) |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0002) |
-| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0003) |
+| Number | Name | Link | Status |
+| :---: | :--- | :--- | :---: |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0001) | ✅ |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0002) | ✅ |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0003) | ✅ |
+| 0004 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0004) | ✅ |
+| 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0005) | ✅ |

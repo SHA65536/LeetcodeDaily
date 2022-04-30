@@ -12,3 +12,4 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0003) | ✅ |
 | 0004 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0004) | ✅ |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0005) | ✅ |
+| 0006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [My Solution](https://github.com/SHA65536/LeetcodeDaily/tree/main/problem0006) | ✅ |

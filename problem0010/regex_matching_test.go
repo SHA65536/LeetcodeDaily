@@ -27,15 +27,19 @@ var Results = []Result{
 	{"aa", "aa", true},
 	{"aab", "aac", false},
 	{"aabca", "aabca", true},
-	/*{"aa", "a*", true},
+	{"aa", "a*", true},
 	{"ab", ".b", true},
 	{"ab", ".*", true},
 	{"aaaa", "aa*", true},
 	{"abc", "a", false},
 	{"abbd", "ab*d", true},
-	{"acd", "ab*d", true},
+	{"acd", "ab*d", false},
 	{"abbcccd", "acd", false},
-	{"a", "aaa*", false},*/
+	{"a", "aaa*", false},
+	{"abcd", "a.*d", true},
+	{"abcde", "a.*d", false},
+	{"abcdef", "a.c.e.", true},
+	{"acdef", "a.c.e.", false},
 }
 
 func TestIsMatch(t *testing.T) {

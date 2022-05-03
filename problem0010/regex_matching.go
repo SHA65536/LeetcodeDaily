@@ -1,7 +1,5 @@
 package problem0010
 
-import "fmt"
-
 /*
 Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:
 '.' Matches any single character.​​​​
@@ -10,36 +8,59 @@ Given an input string s and a pattern p, implement regular expression matching w
 The matching should cover the entire input string (not partial).
 */
 
-func isMatch(s string, p string) bool {
-	fmt.Println(s, p, "\n==========")
-	var reg = MakeRegex(p)
-	for i := 0; i < len(s); i++ {
-		if next, ok := reg.Routes[s[i]]; ok {
-			reg = next
-		} else {
-			return false
-		}
-	}
-	return reg.Special == EndCell
-}
-
 const (
 	RegularCell = iota
-	TrapCell
 	EndCell
 )
 
-type RegeCell struct {
-	Special int
-	Routes  map[byte]*RegeCell
+const (
+	starByte = byte(42) // Byte representation of '*'
+	dotByte  = byte(46) // Byte representation of '.'
+)
+
+func isMatch(s string, p string) bool {
+	return MakeRegex(p).MatchRegex(s)
 }
 
+type RegeCell struct {
+	Special int
+	Routes  []Route
+}
+
+type Route struct {
+	Match byte
+	Dest  *RegeCell
+}
+
+// MakeRegex makes the NFA from a pattern
 func MakeRegex(pattern string) *RegeCell {
 	var cur *RegeCell = &RegeCell{Special: EndCell}
-	fmt.Println("Making: ", pattern)
 	for i := len(pattern) - 1; i >= 0; i-- {
-		before := &RegeCell{Routes: map[byte]*RegeCell{pattern[i]: cur}}
-		cur = before
+		if pattern[i] == starByte {
+			// For a * we point the cell to itself
+			cur.Routes = append(cur.Routes, Route{pattern[i-1], cur})
+			i--
+		} else {
+			// For a regular character or wildcard we make a new cell
+			cur = &RegeCell{Routes: []Route{{pattern[i], cur}}}
+		}
 	}
 	return cur
+}
+
+func (rc *RegeCell) MatchRegex(str string) bool {
+	// Exiting if string is empty
+	if str == "" {
+		return rc.Special == EndCell
+	}
+	// Because * can make multiple routes,
+	// we need to check every one
+	for _, rt := range rc.Routes {
+		if rt.Match == str[0] || rt.Match == dotByte {
+			if rt.Dest.MatchRegex(str[1:]) {
+				return true
+			}
+		}
+	}
+	return false
 }

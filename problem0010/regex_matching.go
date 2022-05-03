@@ -45,11 +45,7 @@ func MakeRegex(pattern string) *RegeCell {
 		if pattern[i] == starByte {
 			// For a * we point the cell to itself
 			cur.Routes = append(cur.Routes, Route{pattern[i-1], RealRoute, cur})
-			if cur.Special == EndCell {
-				cur = &RegeCell{Special: EndCell, Routes: []Route{{dotByte, FakeRoute, cur}}}
-			} else {
-				cur = &RegeCell{Routes: []Route{{dotByte, FakeRoute, cur}}}
-			}
+			cur = &RegeCell{Special: cur.Special, Routes: []Route{{dotByte, FakeRoute, cur}}}
 			i--
 		} else {
 			// For a regular character or wildcard we make a new cell
@@ -74,6 +70,8 @@ func (rc *RegeCell) MatchRegex(str string) bool {
 				}
 			}
 		} else {
+			//Fake Routes are like regular routes
+			//but they don't decrement the string
 			if rt.Match == str[0] || rt.Match == dotByte {
 				if rt.Dest.MatchRegex(str) {
 					return true

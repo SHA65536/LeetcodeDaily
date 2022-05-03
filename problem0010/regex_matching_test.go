@@ -44,6 +44,7 @@ var Results = []Result{
 	{"aaba", "ab*a*c*a", false},
 	{"xy", "xa*b*c*y", true},
 	{"xay", "xa*b*c*y", true},
+	{"xaby", "xa*b*c*y", true},
 	{"xby", "xa*b*c*y", true},
 	{"xbay", "xa*b*c*y", false},
 }

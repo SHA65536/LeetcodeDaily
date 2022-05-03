@@ -16,4 +16,4 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [My Solution](./problem0007) | ✅ |
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [My Solution](./problem0008) | ✅ |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [My Solution](./problem0009) | ✅ |
-| 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [My Solution](./problem0010) | 🚧 |
+| 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [My Solution](./problem0010) | ✅ |

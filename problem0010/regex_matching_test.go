@@ -30,6 +30,7 @@ var Results = []Result{
 	{"aa", "a*", true},
 	{"ab", ".b", true},
 	{"ab", ".*", true},
+	{"a", "ab*", true},
 	{"aaaa", "aa*", true},
 	{"abc", "a", false},
 	{"abbd", "ab*d", true},
@@ -40,6 +41,11 @@ var Results = []Result{
 	{"abcde", "a.*d", false},
 	{"abcdef", "a.c.e.", true},
 	{"acdef", "a.c.e.", false},
+	{"aaba", "ab*a*c*a", false},
+	{"xy", "xa*b*c*y", true},
+	{"xay", "xa*b*c*y", true},
+	{"xby", "xa*b*c*y", true},
+	{"xbay", "xa*b*c*y", false},
 }
 
 func TestIsMatch(t *testing.T) {

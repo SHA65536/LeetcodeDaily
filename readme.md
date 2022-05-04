@@ -17,3 +17,4 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [My Solution](./problem0008) | ✅ |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [My Solution](./problem0009) | ✅ |
 | 0010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [My Solution](./problem0010) | ✅ |
+| 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [My Solution](./problem0011) | ✅ |

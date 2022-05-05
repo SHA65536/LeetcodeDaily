@@ -23,7 +23,7 @@ C can be placed before D (500) and M (1000) to make 400 and 900.
 Given a roman numeral, convert it to an integer.
 */
 
-var romanDict = map[rune]int{
+var romanDict = map[byte]int{
 	'I': 1, 'V': 5, 'X': 10,
 	'L': 50, 'C': 100, 'D': 500,
 	'M': 1000,
@@ -31,14 +31,14 @@ var romanDict = map[rune]int{
 
 func romanToInt(s string) int {
 	var result, last int
-	last = romanDict[rune(s[0])]
-	for _, char := range s[1:] {
-		if last >= romanDict[char] {
+	last = romanDict[s[0]]
+	for i := 1; i < len(s); i++ {
+		if last >= romanDict[s[i]] {
 			result += last
 		} else {
 			result -= last
 		}
-		last = romanDict[char]
+		last = romanDict[s[i]]
 	}
 	return result + last
 }

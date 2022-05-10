@@ -1,7 +1,6 @@
 package problem0015
 
 import (
-	"fmt"
 	"sort"
 )
 
@@ -18,35 +17,33 @@ type void struct{}
 var member void
 
 func threeSum(nums []int) [][]int {
-	var dupes = map[string]void{}
-	var seenOne = map[int]void{}
 	var res = [][]int{}
-	for i := 0; i < len(nums); i++ {
-		if _, ok := seenOne[nums[i]]; !ok {
-			seenOne[nums[i]] = member
-		} else {
+	var seen = map[[3]int]void{}
+	var cur [3]int
+	sort.Ints(nums)
+	for i := 0; i < len(nums)-2; i++ {
+		// Skipping duplicate starting numbers
+		if i != 0 && nums[i-1] == nums[i] {
 			continue
 		}
-		seenTwo := map[int]void{}
-		target := -1 * nums[i]
-		for _, num := range nums[i+1:] {
-			compliment := target - num
-			if _, ok := seenTwo[compliment]; ok {
-				trio := []int{nums[i], num, compliment}
-				hash := hashNums(trio)
-				if _, ok = dupes[hash]; !ok {
-					dupes[hash] = member
-					res = append(res, trio)
+		start := i + 1
+		end := len(nums) - 1
+		comp := nums[i] * -1
+		for end > start {
+			if nums[start]+nums[end] == comp {
+				cur = [3]int{nums[i], nums[start], nums[end]}
+				if _, ok := seen[cur]; !ok {
+					seen[cur] = member
+					res = append(res, []int{nums[i], nums[start], nums[end]})
+					end = len(nums) - 1
 				}
+				start++
+			} else if nums[start]+nums[end] >= comp {
+				end--
 			} else {
-				seenTwo[num] = member
+				start++
 			}
 		}
 	}
 	return res
-}
-
-func hashNums(nums []int) string {
-	sort.Ints(nums)
-	return fmt.Sprint(nums)
 }

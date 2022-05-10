@@ -13,14 +13,15 @@ type Result struct {
 }
 
 var Results = []Result{
-	{[]int{-1, 0, 1, 2, -1, -4}, [][]int{{-1, 0, 1}, {-1, -1, 2}}},
+	{[]int{-1, 0, 1, 2, -1, -4}, [][]int{{-1, -1, 2}, {-1, 0, 1}}},
 	{[]int{}, [][]int{}},
 	{[]int{0}, [][]int{}},
 	{[]int{-1, 0, 1, 0}, [][]int{{-1, 0, 1}}},
-	{[]int{3, 0, -2, -1, 1, 2}, [][]int{{-2, -1, 3}, {-1, 0, 1}, {-2, 0, 2}}},
+	{[]int{3, 0, -2, -1, 1, 2}, [][]int{{-2, -1, 3}, {-2, 0, 2}, {-1, 0, 1}}},
+	{[]int{0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}, [][]int{{0, 0, 0}}},
 }
 
-func TestRomanToInt(t *testing.T) {
+func TestThreeSum(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

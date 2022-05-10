@@ -21,4 +21,4 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [My Solution](./problem0012) | ✅ |
 | 0013 | [Roman to Int](https://leetcode.com/problems/roman-to-integer) | [My Solution](./problem0013) | ✅ |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [My Solution](./problem0014) | ✅ |
-| 0015 | [Three Sum](https://leetcode.com/problems/3sum) | [My Solution](./problem0015) | 🚧 |
+| 0015 | [Three Sum](https://leetcode.com/problems/3sum) | [My Solution](./problem0015) | ✅ |

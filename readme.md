@@ -23,5 +23,6 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [My Solution](./problem0014) | ✅ |
 | 0015 | [Three Sum](https://leetcode.com/problems/3sum) | [My Solution](./problem0015) | ✅ |
 | 0016 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest) | [My Solution](./problem0016) | ✅ |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [My Solution](./problem0017) | ✅ |
 
 <!-- 🚧 -->

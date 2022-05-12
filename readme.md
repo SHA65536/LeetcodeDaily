@@ -25,5 +25,6 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0016 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest) | [My Solution](./problem0016) | ✅ |
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [My Solution](./problem0017) | ✅ |
 | 0018 | [Four Sum](https://leetcode.com/problems/4sum) | [My Solution](./problem0018) | ✅ |
+| 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
 
 <!-- 🚧 -->

@@ -13,7 +13,6 @@ var member void
 func permuteUnique(nums []int) [][]int {
 	var length int = len(nums)
 	var res = [][]int{}
-	var others []int
 	var seen = map[int]void{}
 	if length == 1 {
 		return [][]int{{nums[0]}}
@@ -24,10 +23,7 @@ func permuteUnique(nums []int) [][]int {
 		} else {
 			continue
 		}
-		others = make([]int, length)
-		copy(others, nums)
-		others[i] = others[length-1]
-		others = others[:length-1]
+		others := append(nums[i+1:], nums[:i]...)
 		for _, perm := range permuteUnique(others) {
 			cur := append([]int{num}, perm...)
 			res = append(res, cur)

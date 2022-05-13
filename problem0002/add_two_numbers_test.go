@@ -2,7 +2,7 @@ package problem0002
 
 import (
 	"fmt"
-	. "leetcodedaily/helpers"
+	. "leetcodedaily/helpers/listnode"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

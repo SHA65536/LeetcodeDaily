@@ -1,6 +1,6 @@
 package problem0002
 
-import . "leetcodedaily/helpers"
+import . "leetcodedaily/helpers/listnode"
 
 /*
 https://leetcode.com/problems/add-two-numbers/

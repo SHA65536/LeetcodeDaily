@@ -26,7 +26,9 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [My Solution](./problem0017) | ✅ |
 | 0018 | [Four Sum](https://leetcode.com/problems/4sum) | [My Solution](./problem0018) | ✅ |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [My Solution](./problem0019) | ✅ |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [My Solution](./problem0020) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [My Solution](./problem0117) | ✅ |
 
 <!-- 🚧 -->
+<!--| 0000 | [Name](Link) | [My Solution](./problem0000) | ✅ | -->

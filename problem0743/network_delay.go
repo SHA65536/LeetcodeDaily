@@ -19,7 +19,9 @@ const (
 
 func networkDelayTime(times [][]int, n int, k int) int {
 	var timesMap = map[int][][]int{}
-	var visited = map[int]bool{}
+	var visited = map[int]int{k: 0}
+	var values, best int
+
 	for _, rt := range times {
 		if _, ok := timesMap[rt[src]]; ok {
 			timesMap[rt[src]] = append(timesMap[rt[src]], []int{rt[src], rt[dst], rt[dur]})
@@ -27,28 +29,31 @@ func networkDelayTime(times [][]int, n int, k int) int {
 			timesMap[rt[src]] = [][]int{{rt[src], rt[dst], rt[dur]}}
 		}
 	}
-	maxtime, values := getTimes(timesMap, visited, k)
+	explore(timesMap, visited, k, 0)
+	for k, t := range visited {
+		values += k
+		if t > best {
+			best = t
+		}
+	}
 	if float64(values) == (float64(n)/2)*float64(1+n) {
-		return maxtime
+		return best
 	}
 	return -1
 }
 
-func getTimes(timesMap map[int][][]int, visited map[int]bool, cur int) (time int, vals int) {
-	vals = cur
-	visited[cur] = true
-	if routes, ok := timesMap[cur]; ok {
-		for _, rt := range routes {
-			if _, ok := visited[rt[dst]]; ok {
-				continue
+func explore(timesMap map[int][][]int, visited map[int]int, curNode, curTime int) {
+	for _, route := range timesMap[curNode] {
+		if time, ok := visited[route[dst]]; ok {
+			if time > (curTime + route[dur]) {
+				visited[route[dst]] = curTime + route[dur]
+				explore(timesMap, visited, route[dst], curTime+route[dur])
 			}
-			nextTime, val := getTimes(timesMap, visited, rt[dst])
-			nextTime += rt[dur]
-			vals += val
-			if nextTime > time {
-				time = nextTime
+		} else {
+			visited[route[dst]] = curTime + route[dur]
+			if _, ok := timesMap[route[dst]]; ok {
+				explore(timesMap, visited, route[dst], curTime+route[dur])
 			}
 		}
 	}
-	return
 }

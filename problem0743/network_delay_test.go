@@ -37,7 +37,7 @@ var Results = []Result{
 	},
 	{
 		Times: [][]int{{1, 2, 1}, {2, 3, 2}, {1, 3, 2}},
-		N:     1, K: 1, Expected: 2,
+		N:     3, K: 1, Expected: 2,
 	},
 }
 

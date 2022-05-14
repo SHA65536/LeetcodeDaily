@@ -20,7 +20,7 @@ const (
 func networkDelayTime(times [][]int, n int, k int) int {
 	var timesMap = map[int][][]int{}
 	var visited = map[int]int{k: 0}
-	var values, best int
+	var best int
 
 	for _, rt := range times {
 		if _, ok := timesMap[rt[src]]; ok {
@@ -30,13 +30,12 @@ func networkDelayTime(times [][]int, n int, k int) int {
 		}
 	}
 	explore(timesMap, visited, k, 0)
-	for k, t := range visited {
-		values += k
+	for _, t := range visited {
 		if t > best {
 			best = t
 		}
 	}
-	if float64(values) == (float64(n)/2)*float64(1+n) {
+	if len(visited) == n {
 		return best
 	}
 	return -1

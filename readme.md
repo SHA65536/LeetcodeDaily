@@ -30,6 +30,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0021 | [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [My Solution](./problem0021) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [My Solution](./problem0117) | ✅ |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problem0704) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [My Solution](./problem1302) | ✅ |
 

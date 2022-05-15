@@ -27,3 +27,24 @@ func deepestLeavesSum(root *TreeNode) int {
 	}
 	return res
 }
+
+func deepestLeavesSumTwo(root *TreeNode) int {
+	var res int
+	var cur, next []*TreeNode
+	cur = []*TreeNode{root}
+	for len(cur) > 0 {
+		next = []*TreeNode{}
+		res = 0
+		for idx := range cur {
+			res += cur[idx].Val
+			if cur[idx].Left != nil {
+				next = append(next, cur[idx].Left)
+			}
+			if cur[idx].Right != nil {
+				next = append(next, cur[idx].Right)
+			}
+		}
+		cur = next
+	}
+	return res
+}

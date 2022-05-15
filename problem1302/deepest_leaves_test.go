@@ -46,6 +46,20 @@ func TestDeepestLeavesSum(t *testing.T) {
 	}
 }
 
+func BenchmarkDeepestLeavesSum(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		deepestLeavesSum(Results[0].Root)
+		deepestLeavesSum(Results[1].Root)
+	}
+}
+
+func BenchmarkDeepestLeavesSumTwo(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		deepestLeavesSumTwo(Results[0].Root)
+		deepestLeavesSumTwo(Results[1].Root)
+	}
+}
+
 /*
 Constraints:
 The number of nodes in the tree is in the range [1, 104].

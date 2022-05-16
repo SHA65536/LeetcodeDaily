@@ -31,6 +31,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problem0035) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [My Solution](./problem0117) | ✅ |
+| 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problem0189) | ✅ |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problem0278) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problem0704) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |

@@ -50,3 +50,9 @@ Each problem is in it's own directory, with test files. There are helper package
 | Number | Note |
 | :----: | :--- |
 | 1379 | This problem was done with python since Go was available |
+
+
+## In Progress
+| Number | Name | Link |
+| :---: | :--- | :--- |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [Link](./problem1192) |

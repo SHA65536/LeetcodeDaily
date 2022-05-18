@@ -39,6 +39,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problem0977) | ✅ |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problem1091) | ✅ |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problem1192) | 🚧 |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [My Solution](./problem1302) | ✅ |
 | 1379 | [Find a Binary Tree Node in a Clone of That Tree*](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [My Solution](./problem1379) | ✅ |
 

@@ -40,6 +40,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problem0557) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problem0704) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |
+| 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problem0876) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problem0977) | ✅ |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problem1091) | ✅ |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problem1192) | ✅ |

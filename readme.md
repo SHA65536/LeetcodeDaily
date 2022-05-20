@@ -54,7 +54,7 @@ Each problem is in it's own directory, with test files. There are helper package
 ## Notes
 | Number | Note |
 | :----: | :--- |
-| 1379 | This problem was done with python since Go was available |
+| 1379 | This problem was done with python since Go wasn't available |
 
 
 ## In Progress

@@ -39,6 +39,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [My Solution](./problem0329) | ✅ |
 | 0334 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problem0334) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problem0557) | ✅ |
+| 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problem0567) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problem0704) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problem0876) | ✅ |

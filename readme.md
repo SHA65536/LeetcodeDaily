@@ -30,6 +30,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0021 | [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [My Solution](./problem0021) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problem0035) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
+| 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problem0063) | ✅ |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [My Solution](./problem0117) | ✅ |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [My Solution](./problem0167) | ✅ |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problem0189) | ✅ |
@@ -49,7 +50,6 @@ Each problem is in it's own directory, with test files. There are helper package
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problem0000) | ✅ | -->
-
 ## Notes
 | Number | Note |
 | :----: | :--- |

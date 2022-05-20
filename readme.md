@@ -28,6 +28,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [My Solution](./problem0019) | ✅ |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [My Solution](./problem0020) | ✅ |
 | 0021 | [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [My Solution](./problem0021) | ✅ |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [My Solution](./problem0022) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problem0035) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problem0063) | ✅ |

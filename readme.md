@@ -41,6 +41,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0334 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problem0334) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problem0557) | ✅ |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problem0567) | ✅ |
+| 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [My Solution](./problem0695) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problem0704) | ✅ |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [My Solution](./problem0733) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |

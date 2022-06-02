@@ -45,6 +45,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problem0704) | ✅ |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [My Solution](./problem0733) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |
+| 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problem0867) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problem0876) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problem0977) | ✅ |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problem1091) | ✅ |

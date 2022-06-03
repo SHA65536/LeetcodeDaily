@@ -27,7 +27,7 @@ var Results = []Result{
 	{[4]int{0, 0, 4, 4}, 58},
 }
 
-func TestTranspose(t *testing.T) {
+func TestSumRegion(t *testing.T) {
 	assert := assert.New(t)
 
 	mat := Constructor(Matrix)

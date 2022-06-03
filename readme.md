@@ -37,7 +37,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problem0189) | ✅ |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problem0278) | ✅ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | [My Solution](./problem0283) | ✅ |
-| 0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [My Solution](./problem0304) | ✅ |
+| 0304 | [Range Sum Query 2D - Immutable*](https://leetcode.com/problems/range-sum-query-2d-immutable) | [My Solution](./problem0304) | ✅ |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [My Solution](./problem0329) | ✅ |
 | 0334 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problem0334) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problem0557) | ✅ |
@@ -61,6 +61,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | Number | Note |
 | :----: | :--- |
 | 1379 | This problem was done with python since Go wasn't available |
+| 0304 | Optimization needed (Prefix Sum) |
 
 
 ## In Progress

@@ -40,6 +40,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [My Solution](./problem0160) | ✅ |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [My Solution](./problem0167) | ✅ |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problem0189) | ✅ |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [My Solution](./problem0206) | ✅ |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problem0278) | ✅ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | [My Solution](./problem0283) | ✅ |
 | 0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [My Solution](./problem0304) | ✅ |

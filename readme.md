@@ -65,6 +65,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problem1332) | ✅ |
 | 1379 | [Find a Binary Tree Node in a Clone of That Tree*](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [My Solution](./problem1379) | ✅ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [My Solution](./problem1480) | ✅ |
+| 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | [My Solution](./problem1658) | ✅ |
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problem0000) | ✅ | -->

@@ -34,6 +34,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [My Solution](./problem0051) | ✅ |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [My Solution](./problem0052) | ✅ |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problem0063) | ✅ |
+| 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problem0077) | 🚧 |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problem0088) | ✅ |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [My Solution](./problem0116) | ✅ |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [My Solution](./problem0117) | ✅ |
@@ -76,3 +77,4 @@ Each problem is in it's own directory, with test files. There are helper package
 ## In Progress
 | Number | Name | Link |
 | :---: | :--- | :--- |
+| 0077 | Combinations | [My Solution](./problem0077)

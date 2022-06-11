@@ -30,6 +30,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0021 | [Merge Two Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [My Solution](./problem0021) | ✅ |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [My Solution](./problem0022) | ✅ |
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [My Solution](./problem0023) | ✅ |
+| 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [My Solution](./problem0024) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problem0035) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [My Solution](./problem0051) | ✅ |

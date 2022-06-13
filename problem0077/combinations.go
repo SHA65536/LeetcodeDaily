@@ -8,6 +8,15 @@ You may return the answer in any order.
 */
 
 func combine(n int, k int) [][]int {
-	var res [][]int
-	return res
+	var results = [][]int{}
+	if k == 0 {
+		return [][]int{[]int{}}
+	}
+	for i := k; i <= n; i++ {
+		for _, combo := range combine(i-1, k-1) {
+			combo = append(combo, i)
+			results = append(results, combo)
+		}
+	}
+	return results
 }

@@ -40,6 +40,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problem0088) | ✅ |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [My Solution](./problem0116) | ✅ |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [My Solution](./problem0117) | ✅ |
+| 0120 | [Triangle](https://leetcode.com/problems/triangle) | [My Solution](./problem0120) | ✅ |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [My Solution](./problem0160) | ✅ |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [My Solution](./problem0167) | ✅ |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problem0189) | ✅ |

@@ -53,6 +53,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [My Solution](./problem0542) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problem0557) | ✅ |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problem0567) | ✅ |
+| 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | [My Solution](./problem0583) | ✅ |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [My Solution](./problem00617) | ✅ |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [My Solution](./problem0695) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problem0704) | ✅ |

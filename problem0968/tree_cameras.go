@@ -12,7 +12,7 @@ Return the minimum number of cameras needed to monitor all nodes of the tree.
 
 const (
 	NoCamera = iota
-	NotNeeded
+	Covered
 	HasCamera
 )
 
@@ -25,17 +25,23 @@ func minCameraCover(root *TreeNode) int {
 }
 
 func depthFirst(root *TreeNode, answer *int) int {
+	// Leaves will need to be covered so we mark
+	// their children as covered
 	if root == nil {
-		return NotNeeded
+		return Covered
 	}
 	left := depthFirst(root.Left, answer)
 	right := depthFirst(root.Right, answer)
+	// If the childeren need to be covered, we add a camera
+	// to the current leaf
 	if right == NoCamera || left == NoCamera {
 		*answer++
 		return HasCamera
 	}
+	// If one of the childeren has a camera
+	// we mark current leaf as covered
 	if left == HasCamera || right == HasCamera {
-		return NotNeeded
+		return Covered
 	}
 	return NoCamera
 }

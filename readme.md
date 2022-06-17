@@ -61,6 +61,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problem0743) | ✅ |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problem0867) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problem0876) | ✅ |
+| 0968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [My Solution](./problem0968) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problem0977) | ✅ |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [My Solution](./problem0994) | ✅ |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [My Solution](./problem1048) | ✅ |

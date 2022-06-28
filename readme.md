@@ -80,6 +80,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [My Solution](./problem1423) | ✅ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [My Solution](./problem1480) | ✅ |
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [My Solution](./problem1642) | ✅ |
+| 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | [My Solution](./problem1647) | ✅ |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | [My Solution](./problem1658) | ✅ |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [My Solution](./problem1689) | ✅ |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | [My Solution](./problem1695) | ✅ |

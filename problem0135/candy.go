@@ -28,8 +28,12 @@ func candy(ratings []int) int {
 				candies[i-1] = candies[i] + 1
 			}
 		}
-		// Each child has to get atleast 1
-		total += candies[i] + 1
+		// Summing up as we go
+		total += candies[i]
 	}
-	return total + candies[0] + 1
+	// We skipped the first child
+	total += candies[0]
+
+	// Each child has to get atleast 1 candy
+	return total + len(candies)
 }

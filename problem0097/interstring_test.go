@@ -16,6 +16,7 @@ var Results = []Result{
 	{"aabcc", "dbbca", "aadbbcbcac", true},
 	{"aabcc", "dbbca", "aadbbbaccc", false},
 	{"", "", "", true},
+	{"", "b", "b", true},
 }
 
 func TestIsInterleave(t *testing.T) {

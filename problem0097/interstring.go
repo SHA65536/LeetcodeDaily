@@ -30,16 +30,16 @@ func isInterleave(s1 string, s2 string, s3 string) bool {
 	var cache = make([]bool, lenSmaller+1)
 	cache[0] = true
 	for i := 1; i <= lenSmaller && cache[i-1]; i++ {
-		cache[i] = s2[i-1] == s3[i-1]
+		cache[i] = (*smaller)[i-1] == s3[i-1]
 	}
 	for i := 1; i <= lenBigger; i++ {
-		cache[0] = cache[0] && s1[i-1] == s3[i-1]
+		cache[0] = cache[0] && (*bigger)[i-1] == s3[i-1]
 		for j := 1; j <= lenSmaller; j++ {
 			var s1Match, s2Match bool
-			if s1[i-1] == s3[i+j-1] {
+			if (*bigger)[i-1] == s3[i+j-1] {
 				s1Match = cache[j]
 			}
-			if s2[j-1] == s3[i+j-1] {
+			if (*smaller)[j-1] == s3[i+j-1] {
 				s2Match = cache[j-1]
 			}
 			cache[j] = s1Match || s2Match

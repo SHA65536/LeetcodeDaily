@@ -9,6 +9,7 @@ Given the root of a binary tree, return the level order traversal of its nodes' 
 (i.e., from left to right, level by level).
 */
 
+// Just your run of the mill BFS
 func levelOrder(root *TreeNode) [][]int {
 	if root == nil {
 		return nil

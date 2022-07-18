@@ -10,7 +10,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | [My Solution](./problem0001) | ✅ |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [My Solution](./problem0002) | ✅ |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [My Solution](./problem0003) | ✅ |
-| 0004 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [My Solution](./problem0004) | ✅ |
+| 0004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [My Solution](./problem0004) | ✅ |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [My Solution](./problem0005) | ✅ |
 | 0006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [My Solution](./problem0006) | ✅ |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [My Solution](./problem0007) | ✅ |
@@ -83,6 +83,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problem0977) | ✅ |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [My Solution](./problem0994) | ✅ |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [My Solution](./problem1048) | ✅ |
+| 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problem1091) | ✅ |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problem1192) | ✅ |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [My Solution](./problem1268) | ✅ |

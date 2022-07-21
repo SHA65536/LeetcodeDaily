@@ -38,6 +38,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problem0063) | ✅ |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problem0077) | ✅ |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problem0088) | ✅ |
+| 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [My Solution](./problem0092) | 🚧 |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [My Solution](./problem0097) | ✅ |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [My Solution](./problem0102) | ✅ |
 | 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [My Solution](./problem0105) | ✅ |

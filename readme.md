@@ -59,6 +59,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [My Solution](./problem0215) | ✅ |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [My Solution](./problem0236) | ✅ |
 | 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [My Solution](./problem0240) | ✅ |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [My Solution](./problem0242) | ✅ |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problem0278) | ✅ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | [My Solution](./problem0283) | ✅ |
 | 0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [My Solution](./problem0304) | ✅ |

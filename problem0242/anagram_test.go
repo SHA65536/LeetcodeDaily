@@ -20,7 +20,7 @@ var Results = []Result{
 	{"abc", "abc", true},
 }
 
-func TestFlatten(t *testing.T) {
+func TestIsAnagram(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

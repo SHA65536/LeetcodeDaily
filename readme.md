@@ -63,6 +63,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problem0278) | ✅ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | [My Solution](./problem0283) | ✅ |
 | 0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [My Solution](./problem0304) | ✅ |
+| 0307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [My Solution](./problem0307) | ✅ |
 | 0315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [My Solution](./problem0315) | ✅ |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [My Solution](./problem0329) | ✅ |
 | 0334 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problem0334) | ✅ |

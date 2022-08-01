@@ -36,6 +36,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [My Solution](./problem0051) | ✅ |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [My Solution](./problem0052) | ✅ |
+| 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [My Solution](./problem0062) | ✅ |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problem0063) | ✅ |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problem0077) | ✅ |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list) | [My Solution](./problem0086) | ✅ |

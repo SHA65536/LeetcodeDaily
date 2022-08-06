@@ -72,6 +72,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [My Solution](./problem0377) | ✅ |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [My Solution](./problem0378) | ✅ |
 | 0406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [My Solution](./problem0406) | ✅ |
+| 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | [My Solution](./problem0458) | ✅ |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [My Solution](./problem0462) | ✅ |
 | 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | [My Solution](./problem0473) | ✅ |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [My Solution](./problem0509) | ✅ |

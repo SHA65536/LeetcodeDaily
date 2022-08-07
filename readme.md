@@ -105,6 +105,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problem1091) | ✅ |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problem1192) | ✅ |
+| 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | [My Solution](./problem1220) | ✅ |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [My Solution](./problem1268) | ✅ |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [My Solution](./problem1302) | ✅ |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problem1332) | ✅ |

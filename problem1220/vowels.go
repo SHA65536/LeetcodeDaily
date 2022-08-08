@@ -45,15 +45,17 @@ func countVowelsNaive(prev int, n int) int {
 }
 
 func countVowelPermutation(n int) int {
+	// actual sums
 	var a, e, i, o, u int = 1, 1, 1, 1, 1
-	var ad, ed, id, od, ud int
+	// temporary sums
+	var at, et, it, ot, ut int
 	for j := 1; j < n; j++ {
-		ad, ed, id, od, ud = a, e, i, o, u
-		a = (ed + id + ud) % max
-		e = (ad + id) % max
-		i = (ed + od) % max
-		o = id % max
-		u = (id + od) % max
+		at, et, it, ot, ut = a, e, i, o, u
+		a = (et + it + ut) % max
+		e = (at + it) % max
+		i = (et + ot) % max
+		o = it % max
+		u = (it + ot) % max
 	}
 	return (a + e + i + o + u) % max
 }

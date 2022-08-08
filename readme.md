@@ -31,6 +31,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [My Solution](./problem0022) | ✅ |
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [My Solution](./problem0023) | ✅ |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [My Solution](./problem0024) | ✅ |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [My Solution](./problem0026) | ✅ |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [My Solution](./problem0034) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problem0035) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |

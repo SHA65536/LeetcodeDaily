@@ -97,6 +97,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [My Solution](./problem0746) | ✅ |
 | 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [My Solution](./problem0792) | ✅ |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [My Solution](./problem0820) | ✅ |
+| 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problem0823) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problem0858) | ✅ |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problem0867) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problem0876) | ✅ |

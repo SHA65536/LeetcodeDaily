@@ -49,6 +49,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [My Solution](./problem0097) | ✅ |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [My Solution](./problem0102) | ✅ |
 | 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [My Solution](./problem0105) | ✅ |
+| 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [My Solution](./problem0108) | ✅ |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [My Solution](./problem0114) | ✅ |
 | 0116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [My Solution](./problem0116) | ✅ |
 | 0117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii) | [My Solution](./problem0117) | ✅ |

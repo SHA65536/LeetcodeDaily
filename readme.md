@@ -35,6 +35,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [My Solution](./problem0027) | ✅ |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [My Solution](./problem0028) | ✅ |
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | [My Solution](./problem0030) | ✅ |
+| 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [My Solution](./problem0031) | ✅ |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [My Solution](./problem0034) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problem0035) | ✅ |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [My Solution](./problem0036) | ✅ |

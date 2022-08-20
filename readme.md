@@ -110,6 +110,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problem0823) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problem0858) | ✅ |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problem0867) | ✅ |
+| 0871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops) | [My Solution](./problem0871) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problem0876) | ✅ |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [My Solution](./problem0890) | ✅ |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [My Solution](./problem0916) | ✅ |

@@ -79,6 +79,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [My Solution](./problem0315) | ✅ |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [My Solution](./problem0329) | ✅ |
 | 0334 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problem0334) | ✅ |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [My Solution](./problem0342) | ✅ |
 | 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) | [My Solution](./problem0376) | ✅ |
 | 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [My Solution](./problem0377) | ✅ |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [My Solution](./problem0378) | ✅ |

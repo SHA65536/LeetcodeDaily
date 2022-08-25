@@ -85,6 +85,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) | [My Solution](./problem0376) | ✅ |
 | 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [My Solution](./problem0377) | ✅ |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [My Solution](./problem0378) | ✅ |
+| 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [My Solution](./problem0383) | ✅ |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [My Solution](./problem0387) | ✅ |
 | 0406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [My Solution](./problem0406) | ✅ |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | [My Solution](./problem0458) | ✅ |

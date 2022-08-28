@@ -131,6 +131,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | [My Solution](./problem1220) | ✅ |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [My Solution](./problem1268) | ✅ |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [My Solution](./problem1302) | ✅ |
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [My Solution](./problem1329) | ✅ |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problem1332) | ✅ |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [My Solution](./problem1338) | ✅ |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | [My Solution](./problem1354) | ✅ |

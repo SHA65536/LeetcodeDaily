@@ -40,6 +40,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problem0035) | ✅ |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [My Solution](./problem0036) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problem0047) | ✅ |
+| 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [My Solution](./problem0048) | ✅ |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [My Solution](./problem0051) | ✅ |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [My Solution](./problem0052) | ✅ |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [My Solution](./problem0062) | ✅ |

@@ -116,6 +116,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [My Solution](./problem0746) | ✅ |
 | 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [My Solution](./problem0792) | ✅ |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [My Solution](./problem0804) | ✅ |
+| 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [My Solution](./problem0814) | ✅ |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [My Solution](./problem0820) | ✅ |
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problem0823) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problem0858) | ✅ |

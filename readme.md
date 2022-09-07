@@ -102,6 +102,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problem0567) | ✅ |
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) | [My Solution](./problem0576) | ✅ |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | [My Solution](./problem0583) | ✅ |
+| 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [My Solution](./problem0606) | ✅ |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [My Solution](./problem00617) | ✅ |
 | 0630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | [My Solution](./problem0630) | ✅ |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [My Solution](./problem0637) | ✅ |

@@ -49,6 +49,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list) | [My Solution](./problem0086) | ✅ |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problem0088) | ✅ |
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [My Solution](./problem0092) | ✅ |
+| 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [My Solution](./problem0094) | ✅ |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [My Solution](./problem0097) | ✅ |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [My Solution](./problem0098) | ✅ |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [My Solution](./problem0102) | ✅ |

@@ -12,12 +12,14 @@ Return the number of weak characters.
 
 func numberOfWeakCharacters(properties [][]int) int {
 	var result, max int
+	// Sort by attack and secondary sort by defense
 	sort.Slice(properties, func(i, j int) bool {
 		if properties[i][0] == properties[j][0] {
 			return properties[i][1] < properties[j][1]
 		}
 		return properties[i][0] > properties[j][0]
 	})
+	// Now that they're sorted we just need to look at the defense
 	for i := range properties {
 		if max > properties[i][1] {
 			result++

@@ -68,6 +68,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0135 | [Candy](https://leetcode.com/problems/candy/) | [My Solution](./problem0135) | ✅ |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [My Solution](./problem0160) | ✅ |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [My Solution](./problem0167) | ✅ |
+| 0188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [My Solution](./problem0188) | ✅ |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problem0189) | ✅ |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [My Solution](./problem0199) | ✅ |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [My Solution](./problem0200) | ✅ |

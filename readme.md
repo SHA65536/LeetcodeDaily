@@ -134,6 +134,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [My Solution](./problem0890) | ✅ |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [My Solution](./problem0916) | ✅ |
 | 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | [My Solution](./problem0936) | ✅ |
+| 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [My Solution](./problem0948) | ✅ |
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [My Solution](./problem0967) | ✅ |
 | 0968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [My Solution](./problem0968) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problem0977) | ✅ |

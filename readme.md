@@ -95,6 +95,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [My Solution](./problem0378) | ✅ |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [My Solution](./problem0383) | ✅ |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [My Solution](./problem0387) | ✅ |
+| 0393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | [My Solution](./problem0393) | ✅ |
 | 0406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [My Solution](./problem0406) | ✅ |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [My Solution](./problem0417) | ✅ |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [My Solution](./problem0429) | ✅ |

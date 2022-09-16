@@ -167,6 +167,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | [My Solution](./problem1695) | ✅ |
 | 1696 | [Jump Game VI](https://leetcode.com/problems/jump-game-vi) | [My Solution](./problem1696) | ✅ |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [My Solution](./problem1710) | ✅ |
+| 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [My Solution](./problem1770) | ✅ |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game) | [My Solution](./problem1996) | ✅ |
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array) | [My Solution](./problem2007) | ✅ |
 

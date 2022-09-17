@@ -88,6 +88,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [My Solution](./problems/problem0326) | ✅ |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [My Solution](./problems/problem0329) | ✅ |
 | 0334 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problems/problem0334) | ✅ |
+| 0336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | [My Solution](./problems/problem0336) | ✅ |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [My Solution](./problems/problem0342) | ✅ |
 | 0363 | [Max Sum of Rectangle No Larger Than ](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) | [My Solution](./problems/problem0363) | ✅ |
 | 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) | [My Solution](./problems/problem0376) | ✅ |

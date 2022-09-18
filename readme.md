@@ -39,6 +39,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [My Solution](./problems/problem0034) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problems/problem0035) | ✅ |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [My Solution](./problems/problem0036) | ✅ |
+| 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [My Solution](./problems/problem0042) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problems/problem0047) | ✅ |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [My Solution](./problems/problem0048) | ✅ |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [My Solution](./problems/problem0051) | ✅ |

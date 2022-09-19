@@ -106,6 +106,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | [My Solution](./problems/problem0473) | ✅ |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | [My Solution](./problems/problem0476) | ✅ |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [My Solution](./problems/problem0509) | ✅ |
+| 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [My Solution](./problems/problem0539) | ✅ |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [My Solution](./problems/problem0542) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problems/problem0557) | ✅ |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problems/problem0567) | ✅ |

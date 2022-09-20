@@ -121,6 +121,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | [My Solution](./problems/problem0665) | ✅ |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [My Solution](./problems/problem0695) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problems/problem0704) | ✅ |
+| 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [My Solution](./problems/problem0718) | ✅ |
 | 0729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i) | [My Solution](./problems/problem0729) | ✅ |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [My Solution](./problems/problem0733) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problems/problem0743) | ✅ |

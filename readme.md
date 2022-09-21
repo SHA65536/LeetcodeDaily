@@ -144,6 +144,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [My Solution](./problems/problem0967) | ✅ |
 | 0968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [My Solution](./problems/problem0968) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problems/problem0977) | ✅ |
+| 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [My Solution](./problems/problem0985) | ✅ |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | [My Solution](./problems/problem0987) | ✅ |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [My Solution](./problems/problem0994) | ✅ |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [My Solution](./problems/problem1009) | ✅ |

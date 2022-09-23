@@ -177,6 +177,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [My Solution](./problems/problem1770) | ✅ |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game) | [My Solution](./problems/problem1996) | ✅ |
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array) | [My Solution](./problems/problem2007) | ✅ |
+| 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | [My Solution](./problems/problem2148) | ✅ |
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problems/problem0000) | ✅ | -->

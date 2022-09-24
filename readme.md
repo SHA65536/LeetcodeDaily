@@ -83,6 +83,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [My Solution](./problems/problem0242) | ✅ |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problems/problem0278) | ✅ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | [My Solution](./problems/problem0283) | ✅ |
+| 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [My Solution](./problems/problem0297) | ✅ |
 | 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | [My Solution](./problems/problem0300) | ✅ |
 | 0304 | [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable) | [My Solution](./problems/problem0304) | ✅ |
 | 0307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable) | [My Solution](./problems/problem0307) | ✅ |

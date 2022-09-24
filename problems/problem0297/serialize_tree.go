@@ -14,7 +14,7 @@ You just need to ensure that a binary tree can be serialized to a string and thi
 */
 
 const SPLIT = ","
-const NULL = "N"
+const NILL = "N"
 
 type Codec struct {
 }
@@ -32,7 +32,7 @@ func (this *Codec) serialize(root *TreeNode) string {
 
 func serializeHelper(node *TreeNode, res *string) {
 	if node == nil {
-		*res += NULL + SPLIT
+		*res += NILL + SPLIT
 	} else {
 		*res += strconv.Itoa(node.Val) + SPLIT
 		serializeHelper(node.Left, res)
@@ -53,7 +53,7 @@ func (this *Codec) deserialize(data string) *TreeNode {
 func deserializeHelper(nodes chan string) *TreeNode {
 	var root *TreeNode
 	var val = <-nodes
-	if val != NULL {
+	if val != NILL {
 		num, err := strconv.Atoi(val)
 		if err != nil {
 			return nil

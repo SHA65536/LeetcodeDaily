@@ -37,7 +37,7 @@ func deserialize(data []any, iter *int) *TreeNode {
 	}
 }
 
-func TreeToString(root *TreeNode) []any {
+func TreeToAny(root *TreeNode) []any {
 	var res = make([]any, 0)
 	serializeHelper(root, &res)
 	return res

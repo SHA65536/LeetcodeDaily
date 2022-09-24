@@ -149,6 +149,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | [My Solution](./problems/problem0987) | ✅ |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | [My Solution](./problems/problem0994) | ✅ |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [My Solution](./problems/problem1009) | ✅ |
+| 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [My Solution](./problems/problem1013) | ✅ |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [My Solution](./problems/problem1048) | ✅ |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problems/problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problems/problem1091) | ✅ |

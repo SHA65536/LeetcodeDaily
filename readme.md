@@ -117,6 +117,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [My Solution](./problems/problem0606) | ✅ |
 | 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [My Solution](./problems/problem0609) | ✅ |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [My Solution](./problems/problem00617) | ✅ |
+| 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [My Solution](./problems/problem0622) | ✅ |
 | 0630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | [My Solution](./problems/problem0630) | ✅ |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [My Solution](./problems/problem0637) | ✅ |
 | 0659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [My Solution](./problems/problem0659) | ✅ |

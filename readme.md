@@ -135,6 +135,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [My Solution](./problems/problem0814) | ✅ |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [My Solution](./problems/problem0820) | ✅ |
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problems/problem0823) | ✅ |
+| 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | [My Solution](./problems/problem0838) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problems/problem0858) | ✅ |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problems/problem0867) | ✅ |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | [My Solution](./problems/problem0869) | ✅ |

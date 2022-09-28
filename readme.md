@@ -159,6 +159,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [My Solution](./problems/problem1048) | ✅ |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problems/problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problems/problem1091) | ✅ |
+| 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | [My Solution](./problems/problem1123) | ✅ |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problems/problem1192) | ✅ |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | [My Solution](./problems/problem1220) | ✅ |
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [My Solution](./problems/problem1268) | ✅ |

@@ -108,6 +108,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [My Solution](./problems/problem0462) | ✅ |
 | 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | [My Solution](./problems/problem0473) | ✅ |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | [My Solution](./problems/problem0476) | ✅ |
+| 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [My Solution](./problems/problem0501) | ✅ |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [My Solution](./problems/problem0509) | ✅ |
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [My Solution](./problems/problem0539) | ✅ |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [My Solution](./problems/problem0542) | ✅ |

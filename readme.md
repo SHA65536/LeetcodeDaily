@@ -122,6 +122,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [My Solution](./problems/problem0622) | ✅ |
 | 0630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | [My Solution](./problems/problem0630) | ✅ |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [My Solution](./problems/problem0637) | ✅ |
+| 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | [My Solution](./problems/problem0658) | ✅ |
 | 0659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [My Solution](./problems/problem0659) | ✅ |
 | 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | [My Solution](./problems/problem0665) | ✅ |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [My Solution](./problems/problem0695) | ✅ |

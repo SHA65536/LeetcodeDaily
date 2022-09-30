@@ -77,6 +77,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [My Solution](./problems/problem0200) | ✅ |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [My Solution](./problems/problem0206) | ✅ |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [My Solution](./problems/problem0215) | ✅ |
+| 0218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [My Solution](./problems/problem0218) | ✅ |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [My Solution](./problems/problem0234) | ✅ |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [My Solution](./problems/problem0235) | ✅ |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [My Solution](./problems/problem0236) | ✅ |

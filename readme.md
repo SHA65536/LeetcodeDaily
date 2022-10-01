@@ -116,6 +116,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [My Solution](./problems/problem0542) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problems/problem0557) | ✅ |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problems/problem0567) | ✅ |
+| 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [My Solution](./problems/problem0572) | ✅ |
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) | [My Solution](./problems/problem0576) | ✅ |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | [My Solution](./problems/problem0583) | ✅ |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [My Solution](./problems/problem0606) | ✅ |

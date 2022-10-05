@@ -125,6 +125,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [My Solution](./problems/problem0609) | ✅ |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [My Solution](./problems/problem00617) | ✅ |
 | 0622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue) | [My Solution](./problems/problem0622) | ✅ |
+| 0623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) | [My Solution](./problems/problem0623) | ✅ |
 | 0630 | [Course Schedule III](https://leetcode.com/problems/course-schedule-iii) | [My Solution](./problems/problem0630) | ✅ |
 | 0637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree) | [My Solution](./problems/problem0637) | ✅ |
 | 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | [My Solution](./problems/problem0658) | ✅ |

@@ -25,7 +25,7 @@ var Results = []Result{
 	{[2]int{18, 27}, false},
 }
 
-func TestKthSmallest(t *testing.T) {
+func TestMyCalendar(t *testing.T) {
 	assert := assert.New(t)
 	calendar := Constructor()
 

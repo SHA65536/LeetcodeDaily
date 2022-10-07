@@ -138,6 +138,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [My Solution](./problems/problem0718) | ✅ |
 | 0729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i) | [My Solution](./problems/problem0729) | ✅ |
 | 0731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii) | [My Solution](./problems/problem0731) | ✅ |
+| 0732 | [My Calendar III](https://leetcode.com/problems/my-calendar-iii) | [My Solution](./problems/problem0732) | ✅ |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | [My Solution](./problems/problem0733) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problems/problem0743) | ✅ |
 | 0745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search) | [My Solution](./problems/problem0745) | ✅ |

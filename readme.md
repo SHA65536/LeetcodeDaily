@@ -118,6 +118,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [My Solution](./problems/problem0509) | ✅ |
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [My Solution](./problems/problem0539) | ✅ |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [My Solution](./problems/problem0542) | ✅ |
+| 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [My Solution](./problems/problem0543) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problems/problem0557) | ✅ |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problems/problem0567) | ✅ |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | [My Solution](./problems/problem0572) | ✅ |

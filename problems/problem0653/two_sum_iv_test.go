@@ -20,7 +20,7 @@ var Results = []Result{
 	{MakeTree(5, 3, 2, NULL, NULL, 4, NULL, NULL, 6, NULL, 7, NULL, NULL), 28, false},
 }
 
-func TestMyCalendar(t *testing.T) {
+func TestTwoSumIV(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

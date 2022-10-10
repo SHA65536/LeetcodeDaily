@@ -185,6 +185,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [My Solution](./problems/problem1302) | ✅ |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [My Solution](./problems/problem1305) | ✅ |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [My Solution](./problems/problem1315) | ✅ |
+| 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome) | [My Solution](./problems/problem1328) | ✅ |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [My Solution](./problems/problem1329) | ✅ |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problems/problem1332) | ✅ |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [My Solution](./problems/problem1338) | ✅ |

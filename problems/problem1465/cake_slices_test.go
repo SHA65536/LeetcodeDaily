@@ -19,7 +19,7 @@ var Results = []Result{
 	{5, 4, []int{3}, []int{3}, 9},
 }
 
-func TestMaxArea(t *testing.T) {
+func TestMaxCakeArea(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

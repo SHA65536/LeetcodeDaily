@@ -49,7 +49,7 @@ var Results = []Result{
 	{"xbay", "xa*b*c*y", false},
 }
 
-func TestIsMatch(t *testing.T) {
+func TestRegexMatch(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

@@ -18,7 +18,7 @@ var Results = []Result{
 	{"06", 0},
 }
 
-func TestSkylineProblem(t *testing.T) {
+func TestWaysToDecode(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

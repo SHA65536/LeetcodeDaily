@@ -18,7 +18,7 @@ var Results = []Result{
 	{[][]int{{-10}}, -10},
 }
 
-func TestMinimumTotal(t *testing.T) {
+func TestMinimumTotalTriangle(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

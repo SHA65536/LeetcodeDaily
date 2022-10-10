@@ -23,7 +23,7 @@ var Results = []Result{
 	{[]int{3, 4, 2, 3}, false},
 }
 
-func TestCheckPossibility(t *testing.T) {
+func TestNonDecreasingArray(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

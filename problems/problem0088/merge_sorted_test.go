@@ -46,7 +46,7 @@ var Results = []Result{
 	},
 }
 
-func TestMerge(t *testing.T) {
+func TestMergeSorted(t *testing.T) {
 	assert := assert.New(t)
 	for _, res := range Results {
 		want := res.Expected

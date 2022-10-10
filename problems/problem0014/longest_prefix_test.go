@@ -20,7 +20,7 @@ var Results = []Result{
 	{[]string{"", "abc"}, ""},
 }
 
-func TestRomanToInt(t *testing.T) {
+func TestLongestPrefix(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

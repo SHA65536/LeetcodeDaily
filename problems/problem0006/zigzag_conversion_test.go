@@ -23,7 +23,7 @@ var Results = []Result{
 	{"PAYPALISHIRING", 100, "PAYPALISHIRING"},
 }
 
-func TestConvert(t *testing.T) {
+func TestZigZagConvert(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

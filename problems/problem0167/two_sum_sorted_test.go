@@ -19,7 +19,7 @@ var Results = []Result{
 	{[]int{-1, 0}, -1, []int{1, 2}},
 }
 
-func TestTwoSum(t *testing.T) {
+func TestTwoSumSorted(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

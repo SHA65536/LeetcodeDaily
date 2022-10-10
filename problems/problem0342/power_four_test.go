@@ -33,7 +33,7 @@ var Results = []Result{
 	{17, false},
 }
 
-func TestStampString(t *testing.T) {
+func TestPowerOfFour(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

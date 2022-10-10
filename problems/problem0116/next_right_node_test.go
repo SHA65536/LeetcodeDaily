@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func TestConnect(t *testing.T) {
+func TestConnectNextNode(t *testing.T) {
 	assert := assert.New(t)
 
 	var input1 = &Node{Val: 1,

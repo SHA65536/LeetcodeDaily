@@ -28,7 +28,7 @@ var Results = []Result{
 		{0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0}}, 3},
 }
 
-func TestIsland(t *testing.T) {
+func TestIslandArea(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

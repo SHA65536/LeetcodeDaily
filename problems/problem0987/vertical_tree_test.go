@@ -39,7 +39,7 @@ var Results = []Result{
 		[][]int{{4}, {2}, {1, 5, 6}, {3}, {7}}},
 }
 
-func TestAverageOfLevels(t *testing.T) {
+func TestVerticalTree(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

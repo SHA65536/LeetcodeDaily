@@ -18,7 +18,7 @@ var Results = []Result{
 	{[]int{1, 2, 3, 4, 4, 5}, false},
 }
 
-func TestRemoveHalfArray(t *testing.T) {
+func TestSplitArrayTest(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

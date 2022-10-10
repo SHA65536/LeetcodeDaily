@@ -24,7 +24,7 @@ var Results = []Result{
 	{[]int{0}, 0, 0},
 }
 
-func TestSearch(t *testing.T) {
+func TestBinarySearch(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

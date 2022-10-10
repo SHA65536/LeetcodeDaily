@@ -22,7 +22,7 @@ var Results = []Result{
 	{"()", true},
 }
 
-func TestIsValid(t *testing.T) {
+func TestIsValidParenthesis(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

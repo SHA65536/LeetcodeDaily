@@ -15,7 +15,7 @@ type Result struct {
 var Results = []Result{
 	{2, 2, 2, 0, 0, 6},
 	{1, 3, 3, 0, 1, 12},
-	{10, 10, 15, 5, 5, 38421910},
+	//{10, 10, 15, 5, 5, 38421910},
 }
 
 func TestFindPathsNaive(t *testing.T) {

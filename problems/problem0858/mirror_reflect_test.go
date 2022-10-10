@@ -17,7 +17,7 @@ var Results = []Result{
 	{3, 1, 1},
 }
 
-func TestKthSmallest(t *testing.T) {
+func TestMirrorReflection(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

@@ -27,7 +27,7 @@ var Results = []Result{
 		MakeListNode(4, 3, 2, 1, 5)},
 }
 
-func TestNumMatchingSubseq(t *testing.T) {
+func TestReverseList2(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

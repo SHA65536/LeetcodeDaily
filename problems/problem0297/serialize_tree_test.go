@@ -24,7 +24,7 @@ var Results = []Result{
 			Left: &TreeNode{Val: 4}}}},
 }
 
-func TestDivideArrayIntoThree(t *testing.T) {
+func TestSerializeTree(t *testing.T) {
 	assert := assert.New(t)
 
 	ser := Constructor()

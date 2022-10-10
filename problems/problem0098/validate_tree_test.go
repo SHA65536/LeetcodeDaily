@@ -45,7 +45,7 @@ var Results = []Result{
 	},
 }
 
-func TestBuildTree(t *testing.T) {
+func TestValidateBST(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

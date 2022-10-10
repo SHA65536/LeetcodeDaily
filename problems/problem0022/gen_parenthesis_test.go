@@ -19,7 +19,7 @@ var Results = []Result{
 	{4, []string{"(((())))", "((()()))", "((())())", "((()))()", "(()(()))", "(()()())", "(()())()", "(())(())", "(())()()", "()((()))", "()(()())", "()(())()", "()()(())", "()()()()"}},
 }
 
-func TestMergeTwoLists(t *testing.T) {
+func TestGenerateParenthesis(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

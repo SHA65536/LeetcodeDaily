@@ -19,7 +19,7 @@ var Results = []Result{
 	{[]int{1, 10000000000}, true},
 }
 
-func TestIsPossible(t *testing.T) {
+func TestConstructArraySums(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

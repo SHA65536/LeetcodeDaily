@@ -25,7 +25,7 @@ var Results = []Result{
 	{[]int{50, 1, 50}, 100},
 }
 
-func TestMaxArea(t *testing.T) {
+func TestMaxWaterArea(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

@@ -26,7 +26,7 @@ var Results = []Result{
 	{9515159, true},
 }
 
-func TestMyAtoi(t *testing.T) {
+func TestPalindromeTest(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

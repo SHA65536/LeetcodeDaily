@@ -18,7 +18,7 @@ var Results = []Result{
 	{[]int{-1, -100, 3, 99}, 10, []int{3, 99, -1, -100}},
 }
 
-func TestSortedSquares(t *testing.T) {
+func TestRotateArray(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

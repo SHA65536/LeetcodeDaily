@@ -18,7 +18,7 @@ var Results = []Result{
 	{[][]int{{1, 5}, {10, 4}, {4, 3}}, 1},
 }
 
-func TestInorderTree(t *testing.T) {
+func TestWeakestCharacters(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

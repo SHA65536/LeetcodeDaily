@@ -18,7 +18,7 @@ var Results = []Result{
 	{"leetcode", "etco", 4},
 }
 
-func TestMinDistance(t *testing.T) {
+func TestMinDistanceDelete(t *testing.T) {
 	assert := assert.New(t)
 	for _, res := range Results {
 		want := res.Expected

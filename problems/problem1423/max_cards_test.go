@@ -19,7 +19,7 @@ var Results = []Result{
 	{[]int{9, 7, 7, 9, 7, 7, 9}, 7, 55},
 }
 
-func TestMaxScore(t *testing.T) {
+func TestMaxCardScore(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

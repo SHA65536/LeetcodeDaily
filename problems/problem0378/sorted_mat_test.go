@@ -21,7 +21,7 @@ var Results = []Result{
 	{[][]int{{-5}}, 1, -5},
 }
 
-func TestKthSmallest(t *testing.T) {
+func TestKthSmallestSortedMat(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

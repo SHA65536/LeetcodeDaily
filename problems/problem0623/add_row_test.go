@@ -27,7 +27,7 @@ var Results = []Result{
 	},
 }
 
-func TestPathSum(t *testing.T) {
+func TestAddOneRow(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

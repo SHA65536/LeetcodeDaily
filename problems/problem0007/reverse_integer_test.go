@@ -21,7 +21,7 @@ var Results = []Result{
 	{-2147483648, 0},
 }
 
-func TestReverse(t *testing.T) {
+func TestReverseInteger(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

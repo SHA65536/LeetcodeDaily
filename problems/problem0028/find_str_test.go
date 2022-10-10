@@ -19,7 +19,7 @@ var Results = []Result{
 	{"hello", "", 0},
 }
 
-func TestStrStr(t *testing.T) {
+func TestFindStrStr(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

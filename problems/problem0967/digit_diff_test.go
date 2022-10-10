@@ -19,7 +19,7 @@ var Results = []Result{
 	{2, 0, []int{11, 22, 33, 44, 55, 66, 77, 88, 99}},
 }
 
-func TestAverageOfLevels(t *testing.T) {
+func TestDigitDifference(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

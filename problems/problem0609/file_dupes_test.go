@@ -25,6 +25,6 @@ func TestFileDuplicates(t *testing.T) {
 	for _, res := range Results {
 		want := res.Expected
 		got := findDuplicate(res.Input)
-		assert.Equal(want, got, fmt.Sprintf("%+v", res))
+		assert.ElementsMatch(want, got, fmt.Sprintf("%+v", res))
 	}
 }

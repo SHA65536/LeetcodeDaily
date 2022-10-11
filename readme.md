@@ -96,7 +96,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0315 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self) | [My Solution](./problems/problem0315) | ✅ |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | [My Solution](./problems/problem0326) | ✅ |
 | 0329 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) | [My Solution](./problems/problem0329) | ✅ |
-| 0334 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problems/problem0334) | ✅ |
+| 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problems/problem0344) | ✅ |
 | 0336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | [My Solution](./problems/problem0336) | ✅ |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [My Solution](./problems/problem0342) | ✅ |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [My Solution](./problems/problem0349) | ✅ |

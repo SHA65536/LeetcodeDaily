@@ -165,6 +165,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [My Solution](./problems/problem0948) | ✅ |
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [My Solution](./problems/problem0967) | ✅ |
 | 0968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [My Solution](./problems/problem0968) | ✅ |
+| 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [My Solution](./problems/problem0976) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problems/problem0977) | ✅ |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [My Solution](./problems/problem0981) | ✅ |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [My Solution](./problems/problem0985) | ✅ |

@@ -85,6 +85,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [My Solution](./problems/problem0234) | ✅ |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [My Solution](./problems/problem0235) | ✅ |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [My Solution](./problems/problem0236) | ✅ |
+| 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [My Solution](./problems/problem0237) | ✅ |
 | 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [My Solution](./problems/problem0240) | ✅ |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [My Solution](./problems/problem0242) | ✅ |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problems/problem0278) | ✅ |

@@ -192,6 +192,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome) | [My Solution](./problems/problem1328) | ✅ |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [My Solution](./problems/problem1329) | ✅ |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problems/problem1332) | ✅ |
+| 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) | [My Solution](./problems/problem1335) | ✅ |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [My Solution](./problems/problem1338) | ✅ |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | [My Solution](./problems/problem1354) | ✅ |
 | 1379 | [Find a Binary Tree Node in a Clone of That Tree*](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [My Solution](./problems/problem1379) | ✅ |

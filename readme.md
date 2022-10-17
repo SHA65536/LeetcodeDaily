@@ -138,6 +138,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | [My Solution](./problems/problem0658) | ✅ |
 | 0659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [My Solution](./problems/problem0659) | ✅ |
 | 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | [My Solution](./problems/problem0665) | ✅ |
+| 0671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | [My Solution](./problems/problem0671) | ✅ |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [My Solution](./problems/problem0695) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problems/problem0704) | ✅ |
 | 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [My Solution](./problems/problem0718) | ✅ |

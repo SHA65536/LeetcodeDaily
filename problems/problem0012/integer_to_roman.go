@@ -1,5 +1,7 @@
 package problem0012
 
+import "strings"
+
 /*
 https://leetcode.com/problems/integer-to-roman/
 
@@ -41,15 +43,15 @@ var RomanNumerals = []Roman{
 }
 
 func intToRoman(num int) string {
-	var result string
+	var result strings.Builder
 	var romanIdx int
 	for num > 0 {
 		if num >= RomanNumerals[romanIdx].Value {
-			result += RomanNumerals[romanIdx].Symbol
+			result.WriteString(RomanNumerals[romanIdx].Symbol)
 			num -= RomanNumerals[romanIdx].Value
 		} else {
 			romanIdx++
 		}
 	}
-	return result
+	return result.String()
 }

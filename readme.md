@@ -48,6 +48,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [My Solution](./problems/problem0052) | ✅ |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [My Solution](./problems/problem0062) | ✅ |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problems/problem0063) | ✅ |
+| 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [My Solution](./problems/problem0076) | ✅ |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problems/problem0077) | ✅ |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list) | [My Solution](./problems/problem0086) | ✅ |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problems/problem0088) | ✅ |

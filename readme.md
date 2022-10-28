@@ -44,6 +44,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [My Solution](./problems/problem0042) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problems/problem0047) | ✅ |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [My Solution](./problems/problem0048) | ✅ |
+| 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [My Solution](./problems/problem0049) | ✅ |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [My Solution](./problems/problem0051) | ✅ |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [My Solution](./problems/problem0052) | ✅ |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [My Solution](./problems/problem0062) | ✅ |

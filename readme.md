@@ -239,6 +239,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [My Solution](./problems/problem2095) | ✅ |
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [My Solution](./problems/problem2136) | ✅ |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | [My Solution](./problems/problem2148) | ✅ |
+| 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count) | [My Solution](./problems/problem2284) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |
 
 <!-- 🚧 -->

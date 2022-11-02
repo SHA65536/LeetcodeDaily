@@ -151,6 +151,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | [My Solution](./problems/problem0692) | ✅ |
 | 0695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island) | [My Solution](./problems/problem0695) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problems/problem0704) | ✅ |
+| 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [My Solution](./problems/problem0709) | ✅ |
 | 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [My Solution](./problems/problem0718) | ✅ |
 | 0729 | [My Calendar I](https://leetcode.com/problems/my-calendar-i) | [My Solution](./problems/problem0729) | ✅ |
 | 0731 | [My Calendar II](https://leetcode.com/problems/my-calendar-ii) | [My Solution](./problems/problem0731) | ✅ |

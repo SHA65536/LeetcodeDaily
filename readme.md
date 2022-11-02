@@ -58,6 +58,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [My Solution](./problems/problem0094) | ✅ |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [My Solution](./problems/problem0097) | ✅ |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [My Solution](./problems/problem0098) | ✅ |
+| 0101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [My Solution](./problems/problem0101) | ✅ |
 | 0102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [My Solution](./problems/problem0102) | ✅ |
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [My Solution](./problems/problem0103) | ✅ |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [My Solution](./problems/problem0104) | ✅ |

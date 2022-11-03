@@ -32,6 +32,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [My Solution](./problems/problem0022) | ✅ |
 | 0023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [My Solution](./problems/problem0023) | ✅ |
 | 0024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [My Solution](./problems/problem0024) | ✅ |
+| 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [My Solution](./problems/problem0025) | ✅ |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [My Solution](./problems/problem0026) | ✅ |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | [My Solution](./problems/problem0027) | ✅ |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [My Solution](./problems/problem0028) | ✅ |

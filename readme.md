@@ -200,6 +200,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problems/problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problems/problem1091) | ✅ |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | [My Solution](./problems/problem1123) | ✅ |
+| 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array) | [My Solution](./problems/problem1146) | ✅ |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | [My Solution](./problems/problem1155) | ✅ |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [My Solution](./problems/problem1161) | ✅ |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problems/problem1192) | ✅ |

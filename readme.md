@@ -109,6 +109,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0336 | [Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) | [My Solution](./problems/problem0336) | ✅ |
 | 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [My Solution](./problems/problem0342) | ✅ |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | [My Solution](./problems/problem0344) | ✅ |
+| 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [My Solution](./problems/problem0345) | ✅ |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [My Solution](./problems/problem0349) | ✅ |
 | 0363 | [Max Sum of Rectangle No Larger Than ](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) | [My Solution](./problems/problem0363) | ✅ |
 | 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) | [My Solution](./problems/problem0376) | ✅ |

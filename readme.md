@@ -224,6 +224,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | [My Solution](./problems/problem1354) | ✅ |
 | 1379 | [Find a Binary Tree Node in a Clone of That Tree*](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [My Solution](./problems/problem1379) | ✅ |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team) | [My Solution](./problems/problem1383) | ✅ |
+| 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [My Solution](./problems/problem1408) | ✅ |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [My Solution](./problems/problem1423) | ✅ |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [My Solution](./problems/problem1448) | ✅ |
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree) | [My Solution](./problems/problem1457) | ✅ |

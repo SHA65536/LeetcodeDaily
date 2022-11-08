@@ -18,11 +18,6 @@ const (
 	FakeRoute
 )
 
-const (
-	starByte = byte(42) // Byte representation of '*'
-	dotByte  = byte(46) // Byte representation of '.'
-)
-
 func isMatch(s string, p string) bool {
 	return MakeRegex(p).MatchRegex(s)
 }
@@ -42,10 +37,10 @@ type Route struct {
 func MakeRegex(pattern string) *RegeCell {
 	var cur *RegeCell = &RegeCell{Special: EndCell}
 	for i := len(pattern) - 1; i >= 0; i-- {
-		if pattern[i] == starByte {
+		if pattern[i] == '*' {
 			// For a * we point the cell to itself
 			cur.Routes = append(cur.Routes, Route{pattern[i-1], RealRoute, cur})
-			cur = &RegeCell{Special: cur.Special, Routes: []Route{{dotByte, FakeRoute, cur}}}
+			cur = &RegeCell{Special: cur.Special, Routes: []Route{{'.', FakeRoute, cur}}}
 			i--
 		} else {
 			// For a regular character or wildcard we make a new cell
@@ -64,7 +59,7 @@ func (rc *RegeCell) MatchRegex(str string) bool {
 	// we need to check every one
 	for _, rt := range rc.Routes {
 		if rt.Type == RealRoute {
-			if rt.Match == str[0] || rt.Match == dotByte {
+			if rt.Match == str[0] || rt.Match == '.' {
 				if rt.Dest.MatchRegex(str[1:]) {
 					return true
 				}
@@ -72,7 +67,7 @@ func (rc *RegeCell) MatchRegex(str string) bool {
 		} else {
 			//Fake Routes are like regular routes
 			//but they don't decrement the string
-			if rt.Match == str[0] || rt.Match == dotByte {
+			if rt.Match == str[0] || rt.Match == '.' {
 				if rt.Dest.MatchRegex(str) {
 					return true
 				}

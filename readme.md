@@ -229,6 +229,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree) | [My Solution](./problems/problem1457) | ✅ |
 | 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) | [My Solution](./problems/problem1465) | ✅ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [My Solution](./problems/problem1480) | ✅ |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [My Solution](./problems/problem1544) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [My Solution](./problems/problem1609) | ✅ |
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [My Solution](./problems/problem1642) | ✅ |

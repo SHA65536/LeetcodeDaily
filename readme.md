@@ -48,6 +48,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [My Solution](./problems/problem0049) | ✅ |
 | 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | [My Solution](./problems/problem0051) | ✅ |
 | 0052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [My Solution](./problems/problem0052) | ✅ |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [My Solution](./problems/problem0058) | ✅ |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [My Solution](./problems/problem0062) | ✅ |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problems/problem0063) | ✅ |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [My Solution](./problems/problem0076) | ✅ |

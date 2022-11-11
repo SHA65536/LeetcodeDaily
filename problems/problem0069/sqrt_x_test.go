@@ -22,7 +22,7 @@ var Results = []Result{
 	{10, 3},
 }
 
-func TestRemoveAdjacent(t *testing.T) {
+func TestSquareRoot(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

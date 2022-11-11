@@ -52,6 +52,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [My Solution](./problems/problem0062) | ✅ |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problems/problem0063) | ✅ |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [My Solution](./problems/problem0066) | ✅ |
+| 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [My Solution](./problems/problem0069) | ✅ |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [My Solution](./problems/problem0076) | ✅ |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problems/problem0077) | ✅ |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | [My Solution](./problems/problem0079) | ✅ |

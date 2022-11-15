@@ -57,6 +57,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [My Solution](./problems/problem0076) | ✅ |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problems/problem0077) | ✅ |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | [My Solution](./problems/problem0079) | ✅ |
+| 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [My Solution](./problems/problem0083) | ✅ |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list) | [My Solution](./problems/problem0086) | ✅ |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problems/problem0088) | ✅ |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [My Solution](./problems/problem0091) | ✅ |

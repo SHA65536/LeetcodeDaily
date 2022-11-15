@@ -3,6 +3,7 @@ package problem0501
 import (
 	"fmt"
 	. "leetcodedaily/helpers/binarytree"
+	"sort"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
@@ -25,6 +26,7 @@ func TestFindModesInTree(t *testing.T) {
 	for _, res := range Results {
 		want := res.Expected
 		got := findMode(res.Input)
+		sort.Ints(got)
 		assert.Equal(want, got, fmt.Sprintf("%+v", res))
 	}
 }

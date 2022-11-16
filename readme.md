@@ -122,6 +122,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string) | [My Solution](./problems/problem0345) | ✅ |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [My Solution](./problems/problem0349) | ✅ |
 | 0363 | [Max Sum of Rectangle No Larger Than ](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) | [My Solution](./problems/problem0363) | ✅ |
+| 0374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) | [My Solution](./problems/problem0374) | ✅ |
 | 0376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence) | [My Solution](./problems/problem0376) | ✅ |
 | 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [My Solution](./problems/problem0377) | ✅ |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [My Solution](./problems/problem0378) | ✅ |

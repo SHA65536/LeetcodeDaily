@@ -98,6 +98,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [My Solution](./problems/problem0218) | ✅ |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [My Solution](./problems/problem0219) | ✅ |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [My Solution](./problems/problem0222) | ✅ |
+| 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | [My Solution](./problems/problem0223) | ✅ |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [My Solution](./problems/problem0226) | ✅ |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [My Solution](./problems/problem0234) | ✅ |
 | 0235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [My Solution](./problems/problem0235) | ✅ |

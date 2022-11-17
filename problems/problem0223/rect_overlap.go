@@ -9,6 +9,7 @@ The second rectangle is defined by its bottom-left corner (bx1, by1) and its top
 func computeArea(ax1, ay1, ax2, ay2, bx1, by1, bx2, by2 int) int {
 	xOverlap := max(min(ax2, bx2)-max(ax1, bx1), 0)
 	yOverlap := max(min(ay2, by2)-max(ay1, by1), 0)
+	// Area covered by A + Area covered by B - Area covered by both
 	return area(ax1, ay1, ax2, ay2) + area(bx1, by1, bx2, by2) - xOverlap*yOverlap
 }
 

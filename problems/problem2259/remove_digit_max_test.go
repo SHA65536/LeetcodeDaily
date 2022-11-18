@@ -1,0 +1,40 @@
+package problem2259
+
+import (
+	"fmt"
+	"testing"
+
+	"github.com/stretchr/testify/assert"
+)
+
+type Result struct {
+	Input    string
+	Digit    byte
+	Expected string
+}
+
+var Results = []Result{
+	{"123", '3', "12"},
+	{"1231", '1', "231"},
+	{"551", '5', "51"},
+	{
+		"1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+		'1',
+		"111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111",
+	},
+	{
+		"7795478535679443616467964135298543163376223791274561861738666981419251859535331546947347395531332878",
+		'5',
+		"779547853679443616467964135298543163376223791274561861738666981419251859535331546947347395531332878",
+	},
+}
+
+func TestRemoveDigitMax(t *testing.T) {
+	assert := assert.New(t)
+
+	for _, res := range Results {
+		want := res.Expected
+		got := removeDigit(res.Input, res.Digit)
+		assert.Equal(want, got, fmt.Sprintf("%+v", res))
+	}
+}

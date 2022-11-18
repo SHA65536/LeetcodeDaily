@@ -107,6 +107,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | [My Solution](./problems/problem0237) | ✅ |
 | 0240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [My Solution](./problems/problem0240) | ✅ |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | [My Solution](./problems/problem0242) | ✅ |
+| 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | [My Solution](./problems/problem0263) | ✅ |
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problems/problem0278) | ✅ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | [My Solution](./problems/problem0283) | ✅ |
 | 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [My Solution](./problems/problem0295) | ✅ |

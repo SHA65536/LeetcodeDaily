@@ -251,6 +251,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [My Solution](./problems/problem1544) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [My Solution](./problems/problem1609) | ✅ |
+| 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [My Solution](./problems/problem1629) | ✅ |
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [My Solution](./problems/problem1642) | ✅ |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | [My Solution](./problems/problem1647) | ✅ |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | [My Solution](./problems/problem1658) | ✅ |

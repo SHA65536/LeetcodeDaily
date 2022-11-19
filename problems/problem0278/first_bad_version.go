@@ -13,7 +13,7 @@ You are given an API bool isBadVersion(version) which returns whether version is
 Implement a function to find the first bad version. You should minimize the number of calls to the API.
 */
 
-func firstBadVersion(n int) int {
+func firstBadVersion(n int, isBadVersion func(int) bool) int {
 	var start, end = 0, n
 	for end >= start {
 		mid := ((end - start) / 2) + start
@@ -30,8 +30,4 @@ func firstBadVersion(n int) int {
 		}
 	}
 	return 0
-}
-
-func isBadVersion(version int) bool {
-	return true
 }

@@ -138,6 +138,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [My Solution](./problems/problem0417) | ✅ |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [My Solution](./problems/problem0429) | ✅ |
 | 0433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [My Solution](./problems/problem0433) | ✅ |
+| 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern) | [My Solution](./problems/problem0456) | ✅ |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | [My Solution](./problems/problem0458) | ✅ |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [My Solution](./problems/problem0462) | ✅ |
 | 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | [My Solution](./problems/problem0473) | ✅ |

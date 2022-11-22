@@ -270,6 +270,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [My Solution](./problems/problem1844) | ✅ |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | [My Solution](./problems/problem1926) | ✅ |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game) | [My Solution](./problems/problem1996) | ✅ |
+| 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [My Solution](./problems/problem2000) | ✅ |
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array) | [My Solution](./problems/problem2007) | ✅ |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [My Solution](./problems/problem2095) | ✅ |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [My Solution](./problems/problem2131) | ✅ |

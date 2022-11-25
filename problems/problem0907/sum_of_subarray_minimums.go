@@ -23,11 +23,9 @@ func sumSubarrayMinsNaive(arr []int) int {
 	return res
 }
 
-type Stack [][2]int
-
 func sumSubarrayMins(arr []int) int {
 	var res int
-	var inStackP, inStackN = &Stack{}, &Stack{}
+	var inDbStackP, inDbStackN = &DbStack{}, &DbStack{}
 	var left, right = make([]int, len(arr)), make([]int, len(arr))
 
 	for i := range arr {
@@ -36,20 +34,20 @@ func sumSubarrayMins(arr []int) int {
 	}
 
 	for i := range arr {
-		for !inStackP.Empty() && inStackP.Top()[0] > arr[i] {
-			inStackP.Pop()
+		for !inDbStackP.Empty() && inDbStackP.Top()[0] > arr[i] {
+			inDbStackP.Pop()
 		}
 		left[i] = i + 1
-		if !inStackP.Empty() {
-			left[i] = i - inStackP.Top()[1]
+		if !inDbStackP.Empty() {
+			left[i] = i - inDbStackP.Top()[1]
 		}
-		inStackP.Push([2]int{arr[i], i})
+		inDbStackP.Push([2]int{arr[i], i})
 
-		for !inStackN.Empty() && inStackN.Top()[0] > arr[i] {
-			x := inStackN.Pop()
+		for !inDbStackN.Empty() && inDbStackN.Top()[0] > arr[i] {
+			x := inDbStackN.Pop()
 			right[x[1]] = i - x[1]
 		}
-		inStackN.Push([2]int{arr[i], i})
+		inDbStackN.Push([2]int{arr[i], i})
 	}
 
 	for i := range arr {
@@ -58,20 +56,62 @@ func sumSubarrayMins(arr []int) int {
 	return res
 }
 
-func (s *Stack) Empty() bool {
+type DbStack [][2]int
+
+func (s *DbStack) Empty() bool {
 	return len(*s) == 0
 }
 
-func (s *Stack) Top() [2]int {
+func (s *DbStack) Top() [2]int {
 	return (*s)[len(*s)-1]
 }
 
-func (s *Stack) Pop() [2]int {
+func (s *DbStack) Pop() [2]int {
 	res := s.Top()
 	*s = (*s)[:len(*s)-1]
 	return res
 }
 
-func (s *Stack) Push(v [2]int) {
+func (s *DbStack) Push(v [2]int) {
+	*s = append(*s, v)
+}
+
+func sumSubarrayMinsOpt(arr []int) int {
+	var res, lenArr int
+	var mid, leftB, rightB, count int
+	lenArr = len(arr)
+	st := Stack{}
+	for i := 0; i <= lenArr; i++ {
+		for !st.Empty() && (i == lenArr || arr[st.Top()] >= arr[i]) {
+			mid = st.Pop()
+			leftB, rightB = -1, i
+			if len(st) > 0 {
+				leftB = st.Top()
+			}
+			count = (rightB - mid) * (mid - leftB) % RESMOD
+			res = (res + count*arr[mid]) % RESMOD
+		}
+		st.Push(i)
+	}
+	return res
+}
+
+type Stack []int
+
+func (s *Stack) Empty() bool {
+	return len(*s) == 0
+}
+
+func (s *Stack) Top() int {
+	return (*s)[len(*s)-1]
+}
+
+func (s *Stack) Pop() int {
+	res := s.Top()
+	*s = (*s)[:len(*s)-1]
+	return res
+}
+
+func (s *Stack) Push(v int) {
 	*s = append(*s, v)
 }

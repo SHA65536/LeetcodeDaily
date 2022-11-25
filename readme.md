@@ -199,6 +199,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [My Solution](./problems/problem0890) | ✅ |
 | 0899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [My Solution](./problems/problem0899) | ✅ |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | [My Solution](./problems/problem0901) | ✅ |
+| 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [My Solution](./problems/problem0907) | ✅ |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [My Solution](./problems/problem0916) | ✅ |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [My Solution](./problems/problem0917) | ✅ |
 | 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | [My Solution](./problems/problem0936) | ✅ |

@@ -231,6 +231,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [My Solution](./problems/problem1161) | ✅ |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problems/problem1192) | ✅ |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | [My Solution](./problems/problem1220) | ✅ |
+| 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [My Solution](./problems/problem1235) | ✅ |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [My Solution](./problems/problem1239) | ✅ |    
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [My Solution](./problems/problem1268) | ✅ |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | [My Solution](./problems/problem1293) | ✅ |

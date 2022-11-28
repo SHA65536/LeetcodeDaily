@@ -18,8 +18,9 @@ func findWinners(matches [][]int) [][]int {
 	var results = [][]int{{}, {}}
 	var losses = make(map[int]int)
 	for i := range matches {
-		win := losses[matches[i][0]]
-		losses[matches[i][0]] = win
+		if _, ok := losses[matches[i][0]]; !ok {
+			losses[matches[i][0]] = 0
+		}
 		losses[matches[i][1]]++
 	}
 	for k, v := range losses {

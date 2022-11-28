@@ -86,6 +86,8 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [My Solution](./problems/problem0126) | ✅ |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [My Solution](./problems/problem0128) | ✅ |
 | 0135 | [Candy](https://leetcode.com/problems/candy/) | [My Solution](./problems/problem0135) | ✅ |
+| 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [My Solution](./problems/problem0141) | ✅ |
+| 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [My Solution](./problems/problem0142) | ✅ |
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [My Solution](./problems/problem0151) | ✅ |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [My Solution](./problems/problem0160) | ✅ |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [My Solution](./problems/problem0167) | ✅ |

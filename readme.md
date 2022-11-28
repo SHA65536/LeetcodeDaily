@@ -281,6 +281,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [My Solution](./problems/problem2136) | ✅ |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | [My Solution](./problems/problem2148) | ✅ |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [My Solution](./problems/problem2165) | ✅ |
+| 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [My Solution](./problems/problem2225) | ✅ |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | [My Solution](./problems/problem2259) | ✅ |
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count) | [My Solution](./problems/problem2284) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |

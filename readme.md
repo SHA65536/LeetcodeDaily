@@ -93,6 +93,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problems/problem0189) | ✅ |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [My Solution](./problems/problem0199) | ✅ |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [My Solution](./problems/problem0200) | ✅ |
+| 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [My Solution](./problems/problem0205) | ✅ |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [My Solution](./problems/problem0206) | ✅ |
 | 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [My Solution](./problems/problem0212) | ✅ |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [My Solution](./problems/problem0215) | ✅ |

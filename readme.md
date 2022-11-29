@@ -145,6 +145,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [My Solution](./problems/problem0417) | ✅ |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [My Solution](./problems/problem0429) | ✅ |
 | 0433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [My Solution](./problems/problem0433) | ✅ |
+| 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [My Solution](./problems/problem0438) | ✅ |
 | 0446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [My Solution](./problems/problem0446) | ✅ |
 | 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern) | [My Solution](./problems/problem0456) | ✅ |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | [My Solution](./problems/problem0458) | ✅ |

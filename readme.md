@@ -143,6 +143,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [My Solution](./problems/problem0406) | ✅ |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [My Solution](./problems/problem0409) | ✅ |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [My Solution](./problems/problem0417) | ✅ |
+| 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [My Solution](./problems/problem0424) | ✅ |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [My Solution](./problems/problem0429) | ✅ |
 | 0433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [My Solution](./problems/problem0433) | ✅ |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [My Solution](./problems/problem0438) | ✅ |

@@ -202,6 +202,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problems/problem0823) | ✅ |
 | 0835 | [Image Overlap](https://leetcode.com/problems/image-overlap) | [My Solution](./problems/problem0835) | ✅ |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | [My Solution](./problems/problem0838) | ✅ |
+| 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [My Solution](./problems/problem0844) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problems/problem0858) | ✅ |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problems/problem0867) | ✅ |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | [My Solution](./problems/problem0869) | ✅ |

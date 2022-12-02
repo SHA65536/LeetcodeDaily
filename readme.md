@@ -231,9 +231,10 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [My Solution](./problems/problem0999) | ✅ |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [My Solution](./problems/problem1009) | ✅ |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [My Solution](./problems/problem1013) | ✅ |
-| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [My Solution](./problems/problem1047) | ✅ |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | [My Solution](./problems/problem1026) | ✅ |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [My Solution](./problems/problem1038) | ✅ |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [My Solution](./problems/problem1046) | ✅ |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [My Solution](./problems/problem1047) | ✅ |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [My Solution](./problems/problem1048) | ✅ |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problems/problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problems/problem1091) | ✅ |

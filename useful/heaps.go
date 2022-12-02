@@ -1,7 +1,7 @@
 package useful
 
-// For Max -> MakeHeap(func(i1, i2 int) bool { return i1 > i2 })
-// For Min -> MakeHeap(func(i1, i2 int) bool { return i1 < i2 })
+// For Max -> MakeHeap(MaxHeap)
+// For Min -> MakeHeap(MinHeap)
 
 // import "container/heap"
 
@@ -23,3 +23,6 @@ func (h *Heap) Push(v interface{}) { h.Values = append(h.Values, v.(int)) }
 func MakeHeap(less func(int, int) bool) *Heap {
 	return &Heap{LessFunc: less}
 }
+
+func MinHeap(i, j int) bool { return i > j }
+func MaxHeap(i, j int) bool { return i < j }

@@ -170,6 +170,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0576 | [Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths) | [My Solution](./problems/problem0576) | ✅ |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | [My Solution](./problems/problem0583) | ✅ |
 | 0587 | [Erect the Fence](https://leetcode.com/problems/erect-the-fence) | [My Solution](./problems/problem0587) | ✅ |
+| 0589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [My Solution](./problems/problem0589) | ✅ |
 | 0606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree) | [My Solution](./problems/problem0606) | ✅ |
 | 0609 | [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system) | [My Solution](./problems/problem0609) | ✅ |
 | 0617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) | [My Solution](./problems/problem00617) | ✅ |

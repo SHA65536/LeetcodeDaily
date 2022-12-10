@@ -264,6 +264,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problems/problem1332) | ✅ |
 | 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) | [My Solution](./problems/problem1335) | ✅ |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [My Solution](./problems/problem1338) | ✅ |
+| 1339 | [Maximum Product of Split Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | [My Solution](./problems/problem1339) | ✅ |
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | [My Solution](./problems/problem1354) | ✅ |
 | 1379 | [Find a Binary Tree Node in a Clone of That Tree*](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [My Solution](./problems/problem1379) | ✅ |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team) | [My Solution](./problems/problem1383) | ✅ |

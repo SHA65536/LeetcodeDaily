@@ -220,6 +220,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [My Solution](./problems/problem0907) | ✅ |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [My Solution](./problems/problem0916) | ✅ |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [My Solution](./problems/problem0917) | ✅ |
+| 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) | [My Solution](./problems/problem0931) | ✅ |
 | 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | [My Solution](./problems/problem0936) | ✅ |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [My Solution](./problems/problem0938) | ✅ |
 | 0947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) | [My Solution](./problems/problem0947) | ✅ |

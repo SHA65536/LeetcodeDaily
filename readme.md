@@ -94,6 +94,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [My Solution](./problems/problem0167) | ✅ |
 | 0188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [My Solution](./problems/problem0188) | ✅ |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problems/problem0189) | ✅ |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber) | [My Solution](./problems/problem0198) | ✅ |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [My Solution](./problems/problem0199) | ✅ |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [My Solution](./problems/problem0200) | ✅ |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [My Solution](./problems/problem0205) | ✅ |

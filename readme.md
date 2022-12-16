@@ -100,6 +100,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [My Solution](./problems/problem0205) | ✅ |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [My Solution](./problems/problem0206) | ✅ |
 | 0212 | [Word Search II](https://leetcode.com/problems/word-search-ii) | [My Solution](./problems/problem0212) | ✅ |
+| 0213 | [House Robber II](https://leetcode.com/problems/house-robber-ii) | [My Solution](./problems/problem0213) | ✅ |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [My Solution](./problems/problem0215) | ✅ |
 | 0218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [My Solution](./problems/problem0218) | ✅ |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [My Solution](./problems/problem0219) | ✅ |

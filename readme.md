@@ -167,6 +167,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [My Solution](./problems/problem0501) | ✅ |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [My Solution](./problems/problem0509) | ✅ |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [My Solution](./problems/problem0515) | ✅ |
+| 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [My Solution](./problems/problem0521) | ✅ |
 | 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [My Solution](./problems/problem0523) | ✅ |
 | 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [My Solution](./problems/problem0538) | ✅ |
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [My Solution](./problems/problem0539) | ✅ |

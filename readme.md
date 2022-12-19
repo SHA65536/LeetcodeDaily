@@ -223,6 +223,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0871 | [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops) | [My Solution](./problems/problem0871) | ✅ |
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [My Solution](./problems/problem0872) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problems/problem0876) | ✅ |
+| 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [My Solution](./problems/problem0888) | ✅ |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [My Solution](./problems/problem0890) | ✅ |
 | 0899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [My Solution](./problems/problem0899) | ✅ |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | [My Solution](./problems/problem0901) | ✅ |

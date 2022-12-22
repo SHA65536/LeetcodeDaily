@@ -214,6 +214,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [My Solution](./problems/problem0814) | ✅ |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [My Solution](./problems/problem0820) | ✅ |
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problems/problem0823) | ✅ |
+| 0834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description) | [My Solution](./problems/problem0834) | ✅ |
 | 0835 | [Image Overlap](https://leetcode.com/problems/image-overlap) | [My Solution](./problems/problem0835) | ✅ |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | [My Solution](./problems/problem0838) | ✅ |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [My Solution](./problems/problem0841) | ✅ |
@@ -334,6 +335,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | Number | Note |
 | :----: | :--- |
 | 1379 | This problem was done with python since Go wasn't available |
+| 0834 | Needs revision |
 | 0446 | Needs revision |
 
 

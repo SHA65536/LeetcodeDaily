@@ -24,5 +24,5 @@ func MakeHeap(less func(int, int) bool) *Heap {
 	return &Heap{LessFunc: less}
 }
 
-func MinHeap(i, j int) bool { return i > j }
-func MaxHeap(i, j int) bool { return i < j }
+func MaxHeap(i, j int) bool { return i > j }
+func MinHeap(i, j int) bool { return i < j }

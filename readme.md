@@ -314,6 +314,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [My Solution](./problems/problem1832) | ✅ |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [My Solution](./problems/problem1844) | ✅ |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | [My Solution](./problems/problem1926) | ✅ |
+| 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total) | [My Solution](./problems/problem1962) | ✅ |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [My Solution](./problems/problem1971) | ✅ |
 | 1996 | [The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game) | [My Solution](./problems/problem1996) | ✅ |
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [My Solution](./problems/problem2000) | ✅ |

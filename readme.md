@@ -312,6 +312,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [My Solution](./problems/problem1710) | ✅ |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [My Solution](./problems/problem1770) | ✅ |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [My Solution](./problems/problem1832) | ✅ |
+| 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu) | [My Solution](./problems/problem1834) | ✅ |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [My Solution](./problems/problem1844) | ✅ |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | [My Solution](./problems/problem1926) | ✅ |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total) | [My Solution](./problems/problem1962) | ✅ |

@@ -212,6 +212,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | [My Solution](./problems/problem0766) | ✅ |
 | 0790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | [My Solution](./problems/problem0790) | ✅ |
 | 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [My Solution](./problems/problem0792) | ✅ |
+| 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [My Solution](./problems/problem0797) | ✅ |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [My Solution](./problems/problem0804) | ✅ |
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [My Solution](./problems/problem0814) | ✅ |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [My Solution](./problems/problem0820) | ✅ |

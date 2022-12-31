@@ -249,6 +249,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [My Solution](./problems/problem0968) | ✅ |
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [My Solution](./problems/problem0976) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problems/problem0977) | ✅ |
+| 0980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | [My Solution](./problems/problem0980) | ✅ |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [My Solution](./problems/problem0981) | ✅ |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [My Solution](./problems/problem0985) | ✅ |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | [My Solution](./problems/problem0987) | ✅ |

@@ -125,6 +125,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0278 | [First Bad Version](https://leetcode.com/problems/first-bad-version) | [My Solution](./problems/problem0278) | ✅ |
 | 0279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [My Solution](./problems/problem0279) | ✅ |
 | 0283 | [Move Zeros](https://leetcode.com/problems/move-zeroes) | [My Solution](./problems/problem0283) | ✅ |
+| 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | [My Solution](./problems/problem0290) | ✅ |
 | 0295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | [My Solution](./problems/problem0295) | ✅ |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [My Solution](./problems/problem0297) | ✅ |
 | 0299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [My Solution](./problems/problem0299) | ✅ |

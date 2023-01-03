@@ -244,6 +244,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) | [My Solution](./problems/problem0931) | ✅ |
 | 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | [My Solution](./problems/problem0936) | ✅ |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [My Solution](./problems/problem0938) | ✅ |
+| 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [My Solution](./problems/problem0944) | ✅ |
 | 0947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column) | [My Solution](./problems/problem0947) | ✅ |
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [My Solution](./problems/problem0948) | ✅ |
 | 0951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) | [My Solution](./problems/problem0951) | ✅ |

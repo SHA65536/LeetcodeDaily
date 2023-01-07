@@ -91,6 +91,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | [My Solution](./problems/problem0126) | ✅ |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | [My Solution](./problems/problem0128) | ✅ |
 | 0135 | [Candy](https://leetcode.com/problems/candy/) | [My Solution](./problems/problem0135) | ✅ |
+| 0138 | [Gas Station](https://leetcode.com/problems/gas-station) | [My Solution](./problems/problem0138) | ✅ |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [My Solution](./problems/problem0141) | ✅ |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [My Solution](./problems/problem0142) | ✅ |
 | 0150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [My Solution](./problems/problem0150) | ✅ |

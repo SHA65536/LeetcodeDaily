@@ -51,3 +51,46 @@ func countSubTrees(n int, edges [][]int, labels string) []int {
 
 	return res
 }
+
+func countSubTreesArr(n int, edges [][]int, labels string) []int {
+	var res = make([]int, n)
+	var graph = map[int][]int{}
+	var visited = make([]bool, n)
+	var calcSub func(cur int) [26]int
+
+	// Making graph
+	for _, e := range edges {
+		graph[e[0]] = append(graph[e[0]], e[1])
+		graph[e[1]] = append(graph[e[1]], e[0])
+	}
+
+	// Depth first search
+	calcSub = func(cur int) [26]int {
+		// ret is the frequency of letters below
+		var ret [26]int
+		if visited[cur] {
+			return ret
+		}
+		visited[cur] = true
+
+		// For each descendant
+		for _, nxt := range graph[cur] {
+			// Find it's descendant frequencies
+			nxtMap := calcSub(nxt)
+			// And add them to current
+			for k, v := range nxtMap {
+				ret[k] += v
+			}
+		}
+		// Add current letter to frequency
+		ret[labels[cur]-'a']++
+		// Write to result
+		res[cur] = ret[labels[cur]-'a']
+		return ret
+	}
+
+	// Start from 0
+	calcSub(0)
+
+	return res
+}

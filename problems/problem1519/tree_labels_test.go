@@ -38,3 +38,29 @@ func TestSubTreeLabels(t *testing.T) {
 		assert.Equal(want, got, fmt.Sprintf("%+v", res))
 	}
 }
+
+func BenchmarkSubTreeLabels(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			countSubTrees(res.N, res.Edges, res.Lables)
+		}
+	}
+}
+
+func TestSubTreeLabelsArr(t *testing.T) {
+	assert := assert.New(t)
+
+	for _, res := range Results {
+		want := res.Expected
+		got := countSubTreesArr(res.N, res.Edges, res.Lables)
+		assert.Equal(want, got, fmt.Sprintf("%+v", res))
+	}
+}
+
+func BenchmarkSubTreeLabelsArr(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			countSubTreesArr(res.N, res.Edges, res.Lables)
+		}
+	}
+}

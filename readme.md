@@ -346,6 +346,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [My Solution](./problems/problem2165) | ✅ |
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [My Solution](./problems/problem2225) | ✅ |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | [My Solution](./problems/problem2244) | ✅ |
+| 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) | [My Solution](./problems/problem0000) | ✅ |
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [My Solution](./problems/problem2256) | ✅ |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | [My Solution](./problems/problem2259) | ✅ |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | [My Solution](./problems/problem2278) | ✅ |

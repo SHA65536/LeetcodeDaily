@@ -356,6 +356,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) | [My Solution](./problems/problem2326) | ✅ |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | [My Solution](./problems/problem2389) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |
+| 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths) | [My Solution](./problems/problem2421) | ✅ |
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problems/problem0000) | ✅ | -->
@@ -365,6 +366,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1379 | This problem was done with python since Go wasn't available |
 | 0834 | Needs revision |
 | 0446 | Needs revision |
+| 2421 | Needs revision |
 
 
 ## In Progress

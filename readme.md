@@ -247,6 +247,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0907 | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [My Solution](./problems/problem0907) | ✅ |
 | 0916 | [Word Subsets](https://leetcode.com/problems/word-subsets) | [My Solution](./problems/problem0916) | ✅ |
 | 0917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters) | [My Solution](./problems/problem0917) | ✅ |
+| 0918 | [Name](https://leetcode.com/problems/maximum-sum-circular-subarray) | [My Solution](./problems/problem0918) | ✅ |
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) | [My Solution](./problems/problem0926) | ✅ |
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) | [My Solution](./problems/problem0931) | ✅ |
 | 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | [My Solution](./problems/problem0936) | ✅ |

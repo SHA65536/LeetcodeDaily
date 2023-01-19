@@ -258,6 +258,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) | [My Solution](./problems/problem0951) | ✅ |
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [My Solution](./problems/problem0967) | ✅ |
 | 0968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [My Solution](./problems/problem0968) | ✅ |
+| 0974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) | [My Solution](./problems/problem0974) | ✅ |
 | 0976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle) | [My Solution](./problems/problem0976) | ✅ |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problems/problem0977) | ✅ |
 | 0980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | [My Solution](./problems/problem0980) | ✅ |

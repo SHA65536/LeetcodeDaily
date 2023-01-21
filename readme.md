@@ -67,6 +67,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problems/problem0088) | ✅ |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [My Solution](./problems/problem0091) | ✅ |
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [My Solution](./problems/problem0092) | ✅ |
+| 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [My Solution](./problems/problem0093) | ✅ |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [My Solution](./problems/problem0094) | ✅ |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [My Solution](./problems/problem0097) | ✅ |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [My Solution](./problems/problem0098) | ✅ |

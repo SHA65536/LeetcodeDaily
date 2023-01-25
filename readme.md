@@ -363,6 +363,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) | [My Solution](./problems/problem2279) | ✅ |
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count) | [My Solution](./problems/problem2284) | ✅ |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) | [My Solution](./problems/problem2326) | ✅ |
+| 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [My Solution](./problems/problem2359) | ✅ |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | [My Solution](./problems/problem2389) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |
 | 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths) | [My Solution](./problems/problem2421) | ✅ |

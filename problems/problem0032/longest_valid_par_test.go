@@ -18,7 +18,7 @@ var Results = []Result{
 	{"", 0},
 }
 
-func TestCheapestFlight(t *testing.T) {
+func TestLongestValidParentheses(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

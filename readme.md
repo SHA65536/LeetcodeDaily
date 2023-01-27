@@ -39,6 +39,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0030 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words) | [My Solution](./problems/problem0030) | ✅ |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [My Solution](./problems/problem0031) | ✅ |
 | 0032 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | [My Solution](./problems/problem0032) | ✅ |
+| 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [My Solution](./problems/problem0033) | ✅ |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [My Solution](./problems/problem0034) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problems/problem0035) | ✅ |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [My Solution](./problems/problem0036) | ✅ |

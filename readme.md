@@ -43,6 +43,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [My Solution](./problems/problem0034) | ✅ |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [My Solution](./problems/problem0035) | ✅ |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [My Solution](./problems/problem0036) | ✅ |
+| 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [My Solution](./problems/problem0037) | ✅ |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [My Solution](./problems/problem0038) | ✅ |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [My Solution](./problems/problem0042) | ✅ |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [My Solution](./problems/problem0045) | ✅ |

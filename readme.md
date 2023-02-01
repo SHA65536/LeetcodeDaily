@@ -288,6 +288,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string) | [My Solution](./problems/problem1047) | ✅ |
 | 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | [My Solution](./problems/problem1048) | ✅ |
 | 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) | [My Solution](./problems/problem1061) | ✅ |
+| 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [My Solution](./problems/problem1071) | ✅ |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problems/problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problems/problem1091) | ✅ |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | [My Solution](./problems/problem1103) | ✅ |

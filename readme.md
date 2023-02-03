@@ -178,6 +178,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern) | [My Solution](./problems/problem0456) | ✅ |
 | 0458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs) | [My Solution](./problems/problem0458) | ✅ |
 | 0460 | [LFU Cache](https://leetcode.com/problems/lfu-cache) | [My Solution](./problems/problem0460) | ✅ |
+| 0461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance) | [My Solution](./problems/problem0461) | ✅ |
 | 0462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii) | [My Solution](./problems/problem0462) | ✅ |
 | 0472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words) | [My Solution](./problems/problem0472) | ✅ |
 | 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | [My Solution](./problems/problem0473) | ✅ |

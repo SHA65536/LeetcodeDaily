@@ -359,6 +359,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2000 | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [My Solution](./problems/problem2000) | ✅ |
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array) | [My Solution](./problems/problem2007) | ✅ |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [My Solution](./problems/problem2017) | ✅ |
+| 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [My Solution](./problems/problem2070) | ✅ |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [My Solution](./problems/problem2095) | ✅ |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | [My Solution](./problems/problem2129) | ✅ |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [My Solution](./problems/problem2131) | ✅ |

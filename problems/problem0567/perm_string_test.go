@@ -31,3 +31,28 @@ func TestCheckInclusion(t *testing.T) {
 		assert.Equal(want, got, fmt.Sprintf("%+v", res))
 	}
 }
+
+func BenchmarkCheckInclusion(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			checkInclusion(res.S1, res.S2)
+		}
+	}
+}
+
+func TestCheckInclusionOld(t *testing.T) {
+	assert := assert.New(t)
+	for _, res := range Results {
+		want := res.Expected
+		got := checkInclusionOld(res.S1, res.S2)
+		assert.Equal(want, got, fmt.Sprintf("%+v", res))
+	}
+}
+
+func BenchmarkCheckInclusionOld(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			checkInclusionOld(res.S1, res.S2)
+		}
+	}
+}

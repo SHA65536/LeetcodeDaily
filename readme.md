@@ -380,6 +380,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |
 | 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths) | [My Solution](./problems/problem2421) | ✅ |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [My Solution](./problems/problem2553) | ✅ |
+| 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | [My Solution](./problems/problem2558) | ✅ |
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problems/problem0000) | ✅ | -->

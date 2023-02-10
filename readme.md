@@ -243,6 +243,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | [My Solution](./problems/problem0838) | ✅ |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [My Solution](./problems/problem0841) | ✅ |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [My Solution](./problems/problem0844) | ✅ |
+| 0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [My Solution](./problems/problem0848) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problems/problem0858) | ✅ |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problems/problem0867) | ✅ |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | [My Solution](./problems/problem0869) | ✅ |

@@ -301,6 +301,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1146 | [Snapshot Array](https://leetcode.com/problems/snapshot-array) | [My Solution](./problems/problem1146) | ✅ |
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum) | [My Solution](./problems/problem1155) | ✅ |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree) | [My Solution](./problems/problem1161) | ✅ |
+| 1162 | [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible) | [My Solution](./problems/problem1162) | ✅ |
 | 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [My Solution](./problems/problem1192) | ✅ |
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [My Solution](./problems/problem1207) | ✅ |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | [My Solution](./problems/problem1220) | ✅ |

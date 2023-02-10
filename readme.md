@@ -314,6 +314,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [My Solution](./problems/problem1305) | ✅ |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [My Solution](./problems/problem1315) | ✅ |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | [My Solution](./problems/problem1323) | ✅ |
+| 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | [My Solution](./problems/problem1324) | ✅ |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome) | [My Solution](./problems/problem1328) | ✅ |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [My Solution](./problems/problem1329) | ✅ |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problems/problem1332) | ✅ |

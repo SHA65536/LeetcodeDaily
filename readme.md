@@ -363,6 +363,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1834 | [Single-Threaded CPU](https://leetcode.com/problems/single-threaded-cpu) | [My Solution](./problems/problem1834) | ✅ |
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [My Solution](./problems/problem1837) | ✅ |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [My Solution](./problems/problem1844) | ✅ |
+| 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | [My Solution](./problems/problem1876) | ✅ |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | [My Solution](./problems/problem1926) | ✅ |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total) | [My Solution](./problems/problem1962) | ✅ |
 | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) | [My Solution](./problems/problem1971) | ✅ |

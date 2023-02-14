@@ -22,7 +22,7 @@ var Results = []Result{
 	{1, 4, 2},
 }
 
-func TestMinFuelCarpool(t *testing.T) {
+func TestCountOdds(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

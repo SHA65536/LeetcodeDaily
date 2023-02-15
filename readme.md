@@ -339,6 +339,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [My Solution](./problems/problem1470) | ✅ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [My Solution](./problems/problem1480) | ✅ |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [My Solution](./problems/problem1496) | ✅ |
+| 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [My Solution](./problems/problem1502) | ✅ |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [My Solution](./problems/problem1519) | ✅ |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [My Solution](./problems/problem1523) | ✅ |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [My Solution](./problems/problem1544) | ✅ |

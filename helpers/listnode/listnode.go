@@ -25,6 +25,18 @@ func MakeListNode(nums ...int) *ListNode {
 	return resList
 }
 
+// CopyList creates a deep copy of the given list
+func CopyList(head *ListNode) *ListNode {
+	var res *ListNode = &ListNode{}
+	var temp = res
+	for head != nil {
+		temp.Next = &ListNode{Val: head.Val}
+		temp = temp.Next
+		head = head.Next
+	}
+	return res.Next
+}
+
 func (ln *ListNode) String() string {
 	if ln == nil {
 		return ""

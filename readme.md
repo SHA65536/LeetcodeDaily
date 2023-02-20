@@ -46,6 +46,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [My Solution](./problems/problem0037) | ✅ |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [My Solution](./problems/problem0038) | ✅ |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [My Solution](./problems/problem0042) | ✅ |
+| 0043 | [Multiply Strings](https://leetcode.com/problems/multiply-strings) | [My Solution](./problems/problem0043) | ✅ |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [My Solution](./problems/problem0045) | ✅ |
 | 0047 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [My Solution](./problems/problem0047) | ✅ |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | [My Solution](./problems/problem0048) | ✅ |

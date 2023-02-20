@@ -17,7 +17,7 @@ var Results = []Result{
 	{2, false},
 }
 
-func TestNumberOfIslands(t *testing.T) {
+func TestHappyNumber(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

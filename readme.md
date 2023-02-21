@@ -197,6 +197,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [My Solution](./problems/problem0523) | ✅ |
 | 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [My Solution](./problems/problem0538) | ✅ |
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [My Solution](./problems/problem0539) | ✅ |
+| 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [My Solution](./problems/problem0540) | ✅ |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [My Solution](./problems/problem0542) | ✅ |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [My Solution](./problems/problem0543) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problems/problem0557) | ✅ |

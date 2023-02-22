@@ -397,6 +397,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count) | [My Solution](./problems/problem2284) | ✅ |
 | 2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company) | [My Solution](./problems/problem2306) | ✅ |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) | [My Solution](./problems/problem2326) | ✅ |
+| 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | [My Solution](./problems/problem2331) | ✅ |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [My Solution](./problems/problem2359) | ✅ |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | [My Solution](./problems/problem2389) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |

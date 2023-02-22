@@ -294,6 +294,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [My Solution](./problems/problem0997) | ✅ |
 | 0999 | [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) | [My Solution](./problems/problem0999) | ✅ |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | [My Solution](./problems/problem1009) | ✅ |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | [My Solution](./problems/problem1011) | ✅ |
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [My Solution](./problems/problem1013) | ✅ |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | [My Solution](./problems/problem1026) | ✅ |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [My Solution](./problems/problem1038) | ✅ |

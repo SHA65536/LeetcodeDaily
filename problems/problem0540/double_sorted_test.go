@@ -23,7 +23,7 @@ var Results = []Result{
 	{[]int{1, 3, 3}, 1},
 }
 
-func TestAddStrings(t *testing.T) {
+func TestSortedPairs(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

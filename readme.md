@@ -360,6 +360,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [My Solution](./problems/problem1657) | ✅ |
 | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero) | [My Solution](./problems/problem1658) | ✅ |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [My Solution](./problems/problem1662) | ✅ |
+| 1675 | [Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array) | [My Solution](./problems/problem1675) | ✅ |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) | [My Solution](./problems/problem1680) | ✅ |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | [My Solution](./problems/problem1689) | ✅ |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | [My Solution](./problems/problem1695) | ✅ |

@@ -175,6 +175,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | [My Solution](./problems/problem0415) | ✅ |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | [My Solution](./problems/problem0417) | ✅ |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [My Solution](./problems/problem0424) | ✅ |
+| 0427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree) | [My Solution](./problems/problem0427) | ✅ |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [My Solution](./problems/problem0429) | ✅ |
 | 0433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [My Solution](./problems/problem0433) | ✅ |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [My Solution](./problems/problem0438) | ✅ |

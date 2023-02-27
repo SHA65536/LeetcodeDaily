@@ -64,6 +64,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [My Solution](./problems/problem0067) | ✅ |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [My Solution](./problems/problem0069) | ✅ |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [My Solution](./problems/problem0070) | ✅ |
+| 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance) | [My Solution](./problems/problem0072) | ✅ |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [My Solution](./problems/problem0076) | ✅ |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problems/problem0077) | ✅ |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | [My Solution](./problems/problem0079) | ✅ |
@@ -417,6 +418,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0834 | Needs revision |
 | 0446 | Needs revision |
 | 2421 | Needs revision |
+| 0072 | Needs revision |
 
 
 ## In Progress

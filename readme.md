@@ -180,6 +180,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [My Solution](./problems/problem0429) | ✅ |
 | 0433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [My Solution](./problems/problem0433) | ✅ |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [My Solution](./problems/problem0438) | ✅ |
+| 0443 | [String Compression](https://leetcode.com/problems/string-compression) | [My Solution](./problems/problem0443) | ✅ |
 | 0446 | [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/) | [My Solution](./problems/problem0446) | ✅ |
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [My Solution](./problems/problem0451) | ✅ |
 | 0452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [My Solution](./problems/problem0452) | ✅ |

@@ -357,6 +357,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [My Solution](./problems/problem1502) | ✅ |
 | 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label) | [My Solution](./problems/problem1519) | ✅ |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [My Solution](./problems/problem1523) | ✅ |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | [My Solution](./problems/problem1539) | ✅ |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [My Solution](./problems/problem1544) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [My Solution](./problems/problem1609) | ✅ |

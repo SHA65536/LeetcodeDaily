@@ -397,6 +397,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [My Solution](./problems/problem2136) | ✅ |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | [My Solution](./problems/problem2148) | ✅ |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [My Solution](./problems/problem2165) | ✅ |
+| 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips) | [My Solution](./problems/problem2187) | ✅ |
 | 2225 | [Find Players With Zero or One Losses](https://leetcode.com/problems/find-players-with-zero-or-one-losses/) | [My Solution](./problems/problem2225) | ✅ |
 | 2244 | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks) | [My Solution](./problems/problem2244) | ✅ |
 | 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) | [My Solution](./problems/problem0000) | ✅ |

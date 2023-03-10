@@ -166,6 +166,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv) | [My Solution](./problems/problem0377) | ✅ |
 | 0378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | [My Solution](./problems/problem0378) | ✅ |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [My Solution](./problems/problem0380) | ✅ |
+| 0382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) | [My Solution](./problems/problem0382) | ✅ |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [My Solution](./problems/problem0383) | ✅ |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [My Solution](./problems/problem0387) | ✅ |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [My Solution](./problems/problem0392) | ✅ |

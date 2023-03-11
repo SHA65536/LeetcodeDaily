@@ -19,6 +19,10 @@ var Results = []Result{
 		MakeListNode(-10, -3, 0, 5, 9),
 		MakeTree(0, -3, -10, NULL, NULL, NULL, 9, 5, NULL, NULL, NULL),
 	},
+	{
+		MakeListNode(),
+		MakeTree(),
+	},
 }
 
 func TestSortedListToBST(t *testing.T) {

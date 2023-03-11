@@ -11,9 +11,6 @@ convert it to a height-balanced binary search tree.
 */
 
 func sortedListToBST(head *ListNode) *TreeNode {
-	if head == nil {
-		return nil
-	}
 	return helper(head, nil)
 }
 

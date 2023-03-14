@@ -52,3 +52,14 @@ func serializeHelper(node *TreeNode, res *[]any) {
 		*res = append(*res, NULL)
 	}
 }
+
+func CopyTree(root *TreeNode) *TreeNode {
+	if root == nil {
+		return nil
+	}
+	return &TreeNode{
+		Val:   root.Val,
+		Left:  CopyTree(root.Left),
+		Right: CopyTree(root.Right),
+	}
+}

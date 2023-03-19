@@ -46,3 +46,45 @@ func mergeArray(a, b []int) []int {
 	}
 	return res
 }
+
+func sortArrayQuick(nums []int) []int {
+	return quickSort(nums, 0, len(nums)-1)
+}
+
+func quickSort(nums []int, low, high int) []int {
+	if low < high {
+		var p int
+		nums, p = partition(nums, low, high)
+		nums = quickSort(nums, low, p-1)
+		nums = quickSort(nums, p+1, high)
+	}
+	return nums
+}
+
+func partition(nums []int, low, high int) ([]int, int) {
+	pIdx := findPivot(nums, low, high)
+	nums[high], nums[pIdx] = nums[pIdx], nums[high]
+	pivot := nums[high]
+	i := low
+	for j := low; j < high; j++ {
+		if nums[j] < pivot {
+			nums[i], nums[j] = nums[j], nums[i]
+			i++
+		}
+	}
+	nums[i], nums[high] = nums[high], nums[i]
+	return nums, i
+}
+
+// findPivot finds the median of the start, middle, and end of the array
+func findPivot(nums []int, low, high int) int {
+	a, b, c := nums[low], nums[(low+high)/2], nums[high]
+	if (b >= a) == (a >= c) {
+		return low
+	} else if (a >= b) == (b >= c) {
+		return (low + high) / 2
+	} else if (a >= c) == (c >= b) {
+		return high
+	}
+	return low
+}

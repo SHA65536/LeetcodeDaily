@@ -16,7 +16,11 @@ func combinationSum(candidates []int, target int) [][]int {
 	var cur []int
 	var sum func(target, iter int)
 
-	sum = func(target, iter int) {
+	sum = func(target, start int) {
+		// If we missed the target
+		if target < 0 {
+			return
+		}
 		// If we get to the target
 		if target == 0 {
 			// Copy the current numbers to the result
@@ -25,13 +29,12 @@ func combinationSum(candidates []int, target int) [][]int {
 			return
 		}
 
-		// Loop over candidates as long as we don't overshoot the sum
-		for iter < len(candidates) && target-candidates[iter] >= 0 {
+		// Loop over candidates
+		for i := start; i < len(candidates); i++ {
 			// Add current candidate to the numbers
-			cur = append(cur, candidates[iter])
+			cur = append(cur, candidates[i])
 			// Recurse with updated sum
-			sum(target-candidates[iter], iter)
-			iter++
+			sum(target-candidates[i], i)
 			// Remove previous candidate from numbers
 			cur = cur[:len(cur)-1]
 		}

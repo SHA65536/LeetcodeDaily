@@ -70,3 +70,36 @@ func union(uf map[int]int, x, y int) {
 	// Setting the root of rootx be rooty effectivly merging the groups
 	uf[rootx] = rooty
 }
+
+func makeConnectedDFS(n int, connections [][]int) int {
+	var res int
+	if n > len(connections)+1 {
+		return -1
+	}
+	var dfs func(int) int
+	var groups = make([]map[int]struct{}, n)
+	for i := range groups {
+		groups[i] = map[int]struct{}{}
+	}
+	var seen = make([]bool, n)
+	for _, conn := range connections {
+		groups[conn[0]][conn[1]] = struct{}{}
+		groups[conn[1]][conn[0]] = struct{}{}
+	}
+
+	dfs = func(i int) int {
+		if seen[i] {
+			return 0
+		}
+		seen[i] = true
+		for j := range groups[i] {
+			dfs(j)
+		}
+		return 1
+	}
+
+	for i := 0; i < n; i++ {
+		res += dfs(i)
+	}
+	return res - 1
+}

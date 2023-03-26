@@ -35,21 +35,3 @@ func BenchmarkLongestCycle(b *testing.B) {
 		}
 	}
 }
-
-func TestLongestCycleDFS(t *testing.T) {
-	assert := assert.New(t)
-
-	for _, res := range Results {
-		want := res.Expected
-		got := longestCycleDFS(res.Input)
-		assert.Equal(want, got, fmt.Sprintf("%+v", res))
-	}
-}
-
-func BenchmarkLongestCycleDFS(b *testing.B) {
-	for i := 0; i < b.N; i++ {
-		for _, res := range Results {
-			longestCycleDFS(res.Input)
-		}
-	}
-}

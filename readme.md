@@ -426,6 +426,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | [My Solution](./problems/problem2331) | ✅ |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [My Solution](./problems/problem2348) | ✅ |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [My Solution](./problems/problem2359) | ✅ |
+| 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph) | [My Solution](./problems/problem2360) | ✅ |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | [My Solution](./problems/problem2389) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |
 | 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths) | [My Solution](./problems/problem2421) | ✅ |

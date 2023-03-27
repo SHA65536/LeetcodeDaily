@@ -63,6 +63,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [My Solution](./problems/problem0059) | ✅ |
 | 0062 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [My Solution](./problems/problem0062) | ✅ |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | [My Solution](./problems/problem0063) | ✅ |
+| 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [My Solution](./problems/problem0064) | ✅ |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [My Solution](./problems/problem0066) | ✅ |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [My Solution](./problems/problem0067) | ✅ |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [My Solution](./problems/problem0069) | ✅ |

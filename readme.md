@@ -305,6 +305,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [My Solution](./problems/problem0977) | ✅ |
 | 0980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii) | [My Solution](./problems/problem0980) | ✅ |
 | 0981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store) | [My Solution](./problems/problem0981) | ✅ |
+| 0983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets) | [My Solution](./problems/problem0983) | ✅ |
 | 0985 | [Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries) | [My Solution](./problems/problem0985) | ✅ |
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | [My Solution](./problems/problem0987) | ✅ |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | [My Solution](./problems/problem0989) | ✅ |

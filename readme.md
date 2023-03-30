@@ -74,6 +74,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | [My Solution](./problems/problem0079) | ✅ |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [My Solution](./problems/problem0083) | ✅ |
 | 0086 | [Partition List](https://leetcode.com/problems/partition-list) | [My Solution](./problems/problem0086) | ✅ |
+| 0087 | [Scramble String](https://leetcode.com/problems/scramble-string) | [My Solution](./problems/problem0087) | ✅ |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [My Solution](./problems/problem0088) | ✅ |
 | 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways) | [My Solution](./problems/problem0091) | ✅ |
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [My Solution](./problems/problem0092) | ✅ |
@@ -450,6 +451,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0446 | Needs revision |
 | 2421 | Needs revision |
 | 0072 | Needs revision |
+| 0087 | Needs revision |
 
 
 ## In Progress

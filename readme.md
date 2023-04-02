@@ -425,6 +425,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | [My Solution](./problems/problem2278) | ✅ |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) | [My Solution](./problems/problem2279) | ✅ |
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count) | [My Solution](./problems/problem2284) | ✅ |
+| 2300 | [Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions) | [My Solution](./problems/problem2300) | ✅ |
 | 2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company) | [My Solution](./problems/problem2306) | ✅ |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph) | [My Solution](./problems/problem2316) | ✅ |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) | [My Solution](./problems/problem2326) | ✅ |

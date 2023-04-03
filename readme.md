@@ -275,6 +275,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees) | [My Solution](./problems/problem0872) | ✅ |
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [My Solution](./problems/problem0875) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problems/problem0876) | ✅ |
+| 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [My Solution](./problems/problem0881) | ✅ |
 | 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) | [My Solution](./problems/problem0885) | ✅ |
 | 0886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition) | [My Solution](./problems/problem0886) | ✅ |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [My Solution](./problems/problem0888) | ✅ |

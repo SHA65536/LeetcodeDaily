@@ -435,6 +435,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [My Solution](./problems/problem2359) | ✅ |
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph) | [My Solution](./problems/problem2360) | ✅ |
 | 2389 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum) | [My Solution](./problems/problem2389) | ✅ |
+| 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string) | [My Solution](./problems/problem2405) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |
 | 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths) | [My Solution](./problems/problem2421) | ✅ |
 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [My Solution](./problems/problem2444) | ✅ |

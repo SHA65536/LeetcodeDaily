@@ -342,6 +342,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [My Solution](./problems/problem1235) | ✅ |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [My Solution](./problems/problem1239) | ✅ |    
 | 1268 | [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system) | [My Solution](./problems/problem1268) | ✅ |
+| 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands) | [My Solution](./problems/problem1254) | ✅ |
 | 1293 | [Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination) | [My Solution](./problems/problem1293) | ✅ |
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [My Solution](./problems/problem1302) | ✅ |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [My Solution](./problems/problem1305) | ✅ |

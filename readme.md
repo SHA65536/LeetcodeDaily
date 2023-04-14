@@ -209,6 +209,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0502 | [IPO](https://leetcode.com/problems/ipo) | [My Solution](./problems/problem0502) | ✅ |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [My Solution](./problems/problem0509) | ✅ |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [My Solution](./problems/problem0515) | ✅ |
+| 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [My Solution](./problems/problem0516) | ✅ |
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [My Solution](./problems/problem0520) | ✅ |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [My Solution](./problems/problem0521) | ✅ |
 | 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [My Solution](./problems/problem0523) | ✅ |

@@ -389,6 +389,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [My Solution](./problems/problem1609) | ✅ |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts) | [My Solution](./problems/problem1626) | ✅ |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [My Solution](./problems/problem1629) | ✅ |
+| 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [My Solution](./problems/problem1639) | ✅ |
 | 1642 | [Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach) | [My Solution](./problems/problem1642) | ✅ |
 | 1647 | [Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique) | [My Solution](./problems/problem1647) | ✅ |
 | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [My Solution](./problems/problem1657) | ✅ |

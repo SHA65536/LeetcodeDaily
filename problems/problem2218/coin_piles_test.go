@@ -19,7 +19,7 @@ var Results = []Result{
 	{[][]int{{100}, {100}, {100}, {100}, {100}, {100}, {1, 1, 1, 1, 1, 1, 550}}, 7, 601},
 }
 
-func TestPalindromeSubsequence(t *testing.T) {
+func TestCoinPiles(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {

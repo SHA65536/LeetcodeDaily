@@ -370,6 +370,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | [My Solution](./problems/problem1413) | ✅ |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [My Solution](./problems/problem1417) | ✅ |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [My Solution](./problems/problem1423) | ✅ |
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [My Solution](./problems/problem1431) | ✅ |
 | 1443 | [Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree) | [My Solution](./problems/problem1443) | ✅ |
 | 1444 | [Number of Ways of Cutting a Pizza](https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza) | [My Solution](./problems/problem1444) | ✅ |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) | [My Solution](./problems/problem1448) | ✅ |

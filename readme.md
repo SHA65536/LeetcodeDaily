@@ -404,6 +404,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1704 | [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/) | [My Solution](./problems/problem1704) | ✅ |
 | 1706 | [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall) | [My Solution](./problems/problem1706) | ✅ |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [My Solution](./problems/problem1710) | ✅ |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [My Solution](./problems/problem1768) | ✅ |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [My Solution](./problems/problem1770) | ✅ |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [My Solution](./problems/problem1832) | ✅ |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | [My Solution](./problems/problem1833) | ✅ |

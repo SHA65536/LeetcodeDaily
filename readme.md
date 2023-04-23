@@ -372,6 +372,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes) | [My Solution](./problems/problem1402) | ✅ |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [My Solution](./problems/problem1408) | ✅ |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | [My Solution](./problems/problem1413) | ✅ |
+| 1416 | [Restore The Array](https://leetcode.com/problems/restore-the-array) | [My Solution](./problems/problem1416) | ✅ |
 | 1417 | [Reformat The String](https://leetcode.com/problems/reformat-the-string/) | [My Solution](./problems/problem1417) | ✅ |
 | 1423 | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards) | [My Solution](./problems/problem1423) | ✅ |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) | [My Solution](./problems/problem1431) | ✅ |

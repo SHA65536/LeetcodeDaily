@@ -113,6 +113,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | [My Solution](./problems/problem0133) | ✅ |
 | 0135 | [Candy](https://leetcode.com/problems/candy/) | [My Solution](./problems/problem0135) | ✅ |
 | 0138 | [Gas Station](https://leetcode.com/problems/gas-station) | [My Solution](./problems/problem0138) | ✅ |
+| 0139 | [Word Break](https://leetcode.com/problems/word-break) | [My Solution](./problems/problem0139) | ✅ |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [My Solution](./problems/problem0141) | ✅ |
 | 0142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [My Solution](./problems/problem0142) | ✅ |
 | 0144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [My Solution](./problems/problem0144) | ✅ |

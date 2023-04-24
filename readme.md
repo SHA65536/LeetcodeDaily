@@ -137,6 +137,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [My Solution](./problems/problem0215) | ✅ |
 | 0218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | [My Solution](./problems/problem0218) | ✅ |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [My Solution](./problems/problem0219) | ✅ |
+| 0221 | [Maximal Square](https://leetcode.com/problems/maximal-square) | [My Solution](./problems/problem0221) | ✅ |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [My Solution](./problems/problem0222) | ✅ |
 | 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | [My Solution](./problems/problem0223) | ✅ |
 | 0224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [My Solution](./problems/problem0224) | ✅ |

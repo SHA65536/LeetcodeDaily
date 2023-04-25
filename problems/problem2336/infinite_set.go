@@ -11,7 +11,10 @@ Implement the SmallestInfiniteSet class:
 */
 
 type SmallestInfiniteSet struct {
-	Finite    *Heap
+	// Finite is the set of numbers that are added
+	Finite *Heap
+	// Infinite denotes the edge between our finite
+	// set and infinite set
 	Inifinite int
 }
 
@@ -24,23 +27,31 @@ func Constructor() SmallestInfiniteSet {
 
 func (s *SmallestInfiniteSet) PopSmallest() int {
 	var res int
+	// If we got numbers added to the finite set
 	if s.Finite.Len() > 0 {
+		// Get the smallest one
 		res = heap.Pop(s.Finite).(int)
+		// Get rid of any duplicates
 		for s.Finite.Len() > 0 && s.Finite.Peek() == res {
 			heap.Pop(s.Finite)
 		}
 		return res
 	}
+	// If we take from the infinite set, we just
+	// increment the edge
 	s.Inifinite++
 	return s.Inifinite - 1
 }
 
 func (s *SmallestInfiniteSet) AddBack(num int) {
+	// If the number is not in the infinite set
 	if num < s.Inifinite {
+		// Add it to the finite set
 		heap.Push(s.Finite, num)
 	}
 }
 
+// Heap implementation
 type Heap struct {
 	Values   []int
 	LessFunc func(int, int) bool

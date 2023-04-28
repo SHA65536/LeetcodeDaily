@@ -274,6 +274,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description) | [My Solution](./problems/problem0834) | ✅ |
 | 0835 | [Image Overlap](https://leetcode.com/problems/image-overlap) | [My Solution](./problems/problem0835) | ✅ |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | [My Solution](./problems/problem0838) | ✅ |
+| 0839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups) | [My Solution](./problems/problem0839) | ✅ |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [My Solution](./problems/problem0841) | ✅ |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [My Solution](./problems/problem0844) | ✅ |
 | 0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [My Solution](./problems/problem0848) | ✅ |

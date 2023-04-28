@@ -80,3 +80,40 @@ func union(uf map[int]int, x, y int) {
 	// Setting the root of rootx be rooty effectivly merging the groups
 	uf[rootx] = rooty
 }
+
+// numSimilarGroupsOpt is the same as numSimilarGroups but with a slice
+// instead of map
+func numSimilarGroupsOpt(strs []string) int {
+	var uf = make([]int, len(strs))
+	var roots = map[int]struct{}{}
+	for i := range strs {
+		uf[i] = i
+	}
+	for i := range strs {
+		for j := i + 1; j < len(strs); j++ {
+			if isSimilar(strs[i], strs[j]) {
+				unionArr(uf, i, j)
+			}
+		}
+	}
+	for _, v := range uf {
+		roots[findArr(uf, v)] = struct{}{}
+	}
+	return len(roots)
+}
+
+func findArr(uf []int, x int) int {
+	if uf[x] == x {
+		return uf[x]
+	} else {
+		uf[x] = findArr(uf, uf[x])
+		return uf[x]
+	}
+}
+
+func unionArr(uf []int, x, y int) {
+	var rootx, rooty int
+	rootx = findArr(uf, x)
+	rooty = findArr(uf, y)
+	uf[rootx] = rooty
+}

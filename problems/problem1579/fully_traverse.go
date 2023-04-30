@@ -27,26 +27,31 @@ func maxNumEdgesToRemove(n int, edges [][]int) int {
 		ufBob[i] = i
 	}
 
-	// Adding edges
+	// Adding all edges to the graph
 	for _, e := range edges {
 		var aRes, bRes int
-		if e[0] == 3 {
+		if e[0] == 3 { // type 3, both can walk
 			aRes, bRes = union(ufAlice, e[1], e[2]), union(ufBob, e[1], e[2])
-		} else if e[0] == 2 {
+		} else if e[0] == 2 { // type two bob can walk
 			bRes = union(ufBob, e[1], e[2])
-		} else if e[0] == 1 {
+		} else if e[0] == 1 { // type one, alice can walk
 			aRes = union(ufAlice, e[1], e[2])
 		}
+		// Union returns 1 if the edges are necessary to connect
+		// components
 		if aRes > 0 {
 			aliceComp--
 		}
 		if bRes > 0 {
 			bobComp--
 		}
+		// Keep track of number of neccessary edges
 		added += aRes | bRes
 	}
 
+	// If both have 1 component, they can traverse the whole graph
 	if bobComp == 1 && aliceComp == 1 {
+		// Unnecessary edges = all edges - unnecessary edges
 		return len(edges) - added
 	}
 

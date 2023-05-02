@@ -17,7 +17,7 @@ var Results = []Result{
 	{[]int{1000, 2000, 3000}, 2000},
 }
 
-func TestMaxEdgesRemovedTraversal(t *testing.T) {
+func TestAverageWithoutEdge(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, res := range Results {
@@ -27,7 +27,7 @@ func TestMaxEdgesRemovedTraversal(t *testing.T) {
 	}
 }
 
-func BenchmarkMaxEdgesRemovedTraversal(b *testing.B) {
+func BenchmarkAverageWithoutEdge(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		for _, res := range Results {
 			average(res.Input)

@@ -37,3 +37,21 @@ func BenchmarkNumSubseqTarget(b *testing.B) {
 		}
 	}
 }
+
+func TestNumSubseqTargetPrecompute(t *testing.T) {
+	assert := assert.New(t)
+
+	for _, res := range Results {
+		want := res.Expected
+		got := numSubseqPrecompute(res.Input, res.Target)
+		assert.Equal(want, got, fmt.Sprintf("%+v", res))
+	}
+}
+
+func BenchmarkNumSubseqTargetPrecompute(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			numSubseqPrecompute(res.Input, res.Target)
+		}
+	}
+}

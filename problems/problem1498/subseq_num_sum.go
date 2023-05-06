@@ -45,3 +45,26 @@ func powMod(base, exp int) int {
 	}
 	return result
 }
+
+func numSubseqPrecompute(nums []int, target int) int {
+	var res int
+	// Compute the powers
+	var powers = make([]int, len(nums))
+	powers[0] = 1
+	for i := 1; i < len(powers); i++ {
+		powers[i] = (powers[i-1] * 2) % mod
+	}
+	// Sort the numbers increasing
+	sort.Ints(nums)
+	// Sliding window for edges of subsequences
+	var left, right = 0, len(nums) - 1
+	for left <= right {
+		if nums[left]+nums[right] <= target {
+			res = (res + powers[right-left]) % mod
+			left++
+		} else {
+			right--
+		}
+	}
+	return res
+}

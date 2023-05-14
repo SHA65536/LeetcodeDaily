@@ -425,6 +425,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [My Solution](./problems/problem1710) | ✅ |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [My Solution](./problems/problem1768) | ✅ |
 | 1770 | [Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations) | [My Solution](./problems/problem1770) | ✅ |
+| 1799 | [Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations) | [My Solution](./problems/problem1799) | ✅ |
 | 1822 | [Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array) | [My Solution](./problems/problem1822) | ✅ |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) | [My Solution](./problems/problem1832) | ✅ |
 | 1833 | [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars) | [My Solution](./problems/problem1833) | ✅ |
@@ -497,6 +498,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0087 | Needs revision |
 | 1857 | Needs revision |
 | 0879 | Needs revision |
+| 1799 | Black magic |
 
 
 ## In Progress

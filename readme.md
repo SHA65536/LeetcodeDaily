@@ -481,6 +481,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | [My Solution](./problems/problem2466) | ✅ |
 | 2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital) | [My Solution](./problems/problem2477) | ✅ |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | [My Solution](./problems/problem2492) | ✅ |
+| 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students) | [My Solution](./problems/problem2512) | ✅ |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | [My Solution](./problems/problem2553) | ✅ |
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | [My Solution](./problems/problem2558) | ✅ |
 | 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [My Solution](./problems/problem2562) | ✅ |

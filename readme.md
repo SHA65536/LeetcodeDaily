@@ -446,6 +446,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [My Solution](./problems/problem2070) | ✅ |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [My Solution](./problems/problem2095) | ✅ |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | [My Solution](./problems/problem2129) | ✅ |
+| 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list) | [My Solution](./problems/problem2130) | ✅ |
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [My Solution](./problems/problem2131) | ✅ |
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [My Solution](./problems/problem2136) | ✅ |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | [My Solution](./problems/problem2140) | ✅ |

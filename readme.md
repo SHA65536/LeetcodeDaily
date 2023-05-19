@@ -264,6 +264,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [My Solution](./problems/problem0746) | ✅ |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | [My Solution](./problems/problem0766) | ✅ |
 | 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [My Solution](./problems/problem0783) | ✅ |
+| 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [My Solution](./problems/problem0785) | ✅ |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | [My Solution](./problems/problem0787) | ✅ |
 | 0790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | [My Solution](./problems/problem0790) | ✅ |
 | 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [My Solution](./problems/problem0792) | ✅ |

@@ -188,6 +188,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [My Solution](./problems/problem0392) | ✅ |
 | 0393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | [My Solution](./problems/problem0393) | ✅ |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [My Solution](./problems/problem0394) | ✅ |
+| 0399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | [My Solution](./problems/problem0399) | ✅ |
 | 0406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height) | [My Solution](./problems/problem0406) | ✅ |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [My Solution](./problems/problem0409) | ✅ |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | [My Solution](./problems/problem0415) | ✅ |

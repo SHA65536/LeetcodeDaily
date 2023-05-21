@@ -306,6 +306,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing) | [My Solution](./problems/problem0926) | ✅ |
 | 0931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum) | [My Solution](./problems/problem0931) | ✅ |
 | 0933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) | [My Solution](./problems/problem0933) | ✅ |
+| 0934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge) | [My Solution](./problems/problem0934) | ✅ |
 | 0936 | [Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence) | [My Solution](./problems/problem0936) | ✅ |
 | 0938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst) | [My Solution](./problems/problem0938) | ✅ |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | [My Solution](./problems/problem0944) | ✅ |

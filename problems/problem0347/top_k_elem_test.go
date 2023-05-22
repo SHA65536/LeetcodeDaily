@@ -31,6 +31,25 @@ func TestTopKElementsSort(t *testing.T) {
 	}
 }
 
+func TestTopKElementsBuckets(t *testing.T) {
+	assert := assert.New(t)
+
+	for _, res := range Results {
+		want := res.Expected
+		got := topKFrequentBucket(res.Input, res.K)
+		sort.Ints(got)
+		assert.Equal(want, got, fmt.Sprintf("%+v", res))
+	}
+}
+
+func BenchmarkTopKElementsBucket(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			topKFrequentBucket(res.Input, res.K)
+		}
+	}
+}
+
 func BenchmarkTopKElementsSort(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		for _, res := range Results {

@@ -31,6 +31,43 @@ func topKFrequentSort(nums []int, k int) []int {
 	return res[:k]
 }
 
+func topKFrequentBucket(nums []int, k int) []int {
+	var freq = map[int]int{}
+	var res = make([]int, k)
+	var buckets [][]int
+	var maxFreq int
+
+	// Calculate frequencies
+	for i := range nums {
+		freq[nums[i]]++
+		maxFreq = max(maxFreq, freq[nums[i]])
+	}
+
+	// Build buckets
+	buckets = make([][]int, maxFreq)
+	for key, val := range freq {
+		buckets[val-1] = append(buckets[val-1], key)
+	}
+
+	// Getting res
+	var idx = len(buckets) - 1
+	for i := range res {
+		for len(buckets[idx]) == 0 {
+			idx--
+		}
+		res[i] = buckets[idx][len(buckets[idx])-1]
+		buckets[idx] = buckets[idx][:len(buckets[idx])-1]
+	}
+	return res
+}
+
+func max(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
+}
+
 func topKFrequentHeap(nums []int, k int) []int {
 	var freq = map[int]int{}
 	var res []int

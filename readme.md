@@ -384,6 +384,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | [My Solution](./problems/problem1372) | ✅ |
 | 1379 | [Find a Binary Tree Node in a Clone of That Tree*](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [My Solution](./problems/problem1379) | ✅ |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team) | [My Solution](./problems/problem1383) | ✅ |
+| 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid) | [My Solution](./problems/problem1391) | ✅ |
 | 1402 | [Reducing Dishes](https://leetcode.com/problems/reducing-dishes) | [My Solution](./problems/problem1402) | ✅ |
 | 1408 | [String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/) | [My Solution](./problems/problem1408) | ✅ |
 | 1413 | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum) | [My Solution](./problems/problem1413) | ✅ |

@@ -279,6 +279,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problems/problem0823) | ✅ |
 | 0834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description) | [My Solution](./problems/problem0834) | ✅ |
 | 0835 | [Image Overlap](https://leetcode.com/problems/image-overlap) | [My Solution](./problems/problem0835) | ✅ |
+| 0837 | [New 21 Game](https://leetcode.com/problems/new-21-game) | [My Solution](./problems/problem0837) | ✅ |
 | 0838 | [Push Dominoes](https://leetcode.com/problems/push-dominoes) | [My Solution](./problems/problem0838) | ✅ |
 | 0839 | [Similar String Groups](https://leetcode.com/problems/similar-string-groups) | [My Solution](./problems/problem0839) | ✅ |
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [My Solution](./problems/problem0841) | ✅ |

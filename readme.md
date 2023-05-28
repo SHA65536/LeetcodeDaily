@@ -413,6 +413,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | [My Solution](./problems/problem1523) | ✅ |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | [My Solution](./problems/problem1539) | ✅ |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [My Solution](./problems/problem1544) | ✅ |
+| 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) | [My Solution](./problems/problem1547) | ✅ |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [My Solution](./problems/problem1557) | ✅ |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [My Solution](./problems/problem1572) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |

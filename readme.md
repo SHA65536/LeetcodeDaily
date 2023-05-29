@@ -418,6 +418,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [My Solution](./problems/problem1572) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | [My Solution](./problems/problem1579) | ✅ |
+| 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [My Solution](./problems/problem1603) | ✅ |
 | 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [My Solution](./problems/problem1609) | ✅ |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts) | [My Solution](./problems/problem1626) | ✅ |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [My Solution](./problems/problem1629) | ✅ |

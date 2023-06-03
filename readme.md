@@ -385,6 +385,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | [My Solution](./problems/problem1354) | ✅ |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders) | [My Solution](./problems/problem1357) | ✅ |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | [My Solution](./problems/problem1372) | ✅ |
+| 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees) | [My Solution](./problems/problem1376) | ✅ |
 | 1379 | [Find a Binary Tree Node in a Clone of That Tree*](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) | [My Solution](./problems/problem1379) | ✅ |
 | 1383 | [Maximum Performance of a Team](https://leetcode.com/problems/maximum-performance-of-a-team) | [My Solution](./problems/problem1383) | ✅ |
 | 1391 | [Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid) | [My Solution](./problems/problem1391) | ✅ |

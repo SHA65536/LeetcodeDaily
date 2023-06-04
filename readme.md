@@ -225,6 +225,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [My Solution](./problems/problem0540) | ✅ |
 | 0542 | [01 Matrix](https://leetcode.com/problems/01-matrix) | [My Solution](./problems/problem0542) | ✅ |
 | 0543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) | [My Solution](./problems/problem0543) | ✅ |
+| 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | [My Solution](./problems/problem0547) | ✅ |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | [My Solution](./problems/problem0557) | ✅ |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | [My Solution](./problems/problem0566) | ✅ |
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | [My Solution](./problems/problem0567) | ✅ |

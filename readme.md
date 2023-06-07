@@ -373,7 +373,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum) | [My Solution](./problems/problem1302) | ✅ |
 | 1305 | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees) | [My Solution](./problems/problem1305) | ✅ |
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | [My Solution](./problems/problem1312) | ✅ |
-| 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent) | [My Solution](./problems/problem1315) | ✅ |
+| 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [My Solution](./problems/problem1318) | ✅ |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected) | [My Solution](./problems/problem1319) | ✅ |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | [My Solution](./problems/problem1323) | ✅ |
 | 1324 | [Print Words Vertically](https://leetcode.com/problems/print-words-vertically) | [My Solution](./problems/problem1324) | ✅ |

@@ -384,6 +384,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [My Solution](./problems/problem1338) | ✅ |
 | 1339 | [Maximum Product of Split Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | [My Solution](./problems/problem1339) | ✅ |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv) | [My Solution](./problems/problem1345) | ✅ |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | [My Solution](./problems/problem1351) | ✅ | 
 | 1354 | [Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums) | [My Solution](./problems/problem1354) | ✅ |
 | 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders) | [My Solution](./problems/problem1357) | ✅ |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree) | [My Solution](./problems/problem1372) | ✅ |

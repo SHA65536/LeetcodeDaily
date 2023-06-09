@@ -266,6 +266,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | [My Solution](./problems/problem0739) | ✅ |
 | 0740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn) | [My Solution](./problems/problem0740) | ✅ |
 | 0743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time) | [My Solution](./problems/problem0743) | ✅ |
+| 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | [My Solution](./problems/problem0744) | ✅ |
 | 0745 | [Prefix and Suffix Search](https://leetcode.com/problems/prefix-and-suffix-search) | [My Solution](./problems/problem0745) | ✅ |
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [My Solution](./problems/problem0746) | ✅ |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | [My Solution](./problems/problem0766) | ✅ |

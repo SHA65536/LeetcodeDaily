@@ -221,6 +221,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | [My Solution](./problems/problem0520) | ✅ |
 | 0521 | [Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i) | [My Solution](./problems/problem0521) | ✅ |
 | 0523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) | [My Solution](./problems/problem0523) | ✅ |
+| 0530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst) | [My Solution](./problems/problem0530) | ✅ |
 | 0538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree) | [My Solution](./problems/problem0538) | ✅ |
 | 0539 | [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference) | [My Solution](./problems/problem0539) | ✅ |
 | 0540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array) | [My Solution](./problems/problem0540) | ✅ |

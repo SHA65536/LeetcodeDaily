@@ -215,6 +215,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences) | [My Solution](./problems/problem0491) | ✅ |
 | 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [My Solution](./problems/problem0501) | ✅ |
 | 0502 | [IPO](https://leetcode.com/problems/ipo) | [My Solution](./problems/problem0502) | ✅ |
+| 0508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum) | [My Solution](./problems/problem0508) | ✅ |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | [My Solution](./problems/problem0509) | ✅ |
 | 0515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row) | [My Solution](./problems/problem0515) | ✅ |
 | 0516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence) | [My Solution](./problems/problem0516) | ✅ |

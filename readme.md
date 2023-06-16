@@ -426,6 +426,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great) | [My Solution](./problems/problem1544) | ✅ |
 | 1547 | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick) | [My Solution](./problems/problem1547) | ✅ |
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [My Solution](./problems/problem1557) | ✅ |
+| 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | [My Solution](./problems/problem1569) | ✅ |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [My Solution](./problems/problem1572) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | [My Solution](./problems/problem1579) | ✅ |
@@ -533,6 +534,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0879 | Needs revision |
 | 2542 | Needs revision |
 | 1799 | Black magic |
+| 1569 | No Idea |
 
 
 ## In Progress

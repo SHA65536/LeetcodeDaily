@@ -497,6 +497,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2306 | [Naming a Company](https://leetcode.com/problems/naming-a-company) | [My Solution](./problems/problem2306) | ✅ |
 | 2316 | [Count Unreachable Pairs of Nodes in an Undirected Graph](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph) | [My Solution](./problems/problem2316) | ✅ |
 | 2326 | [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv) | [My Solution](./problems/problem2326) | ✅ |
+| 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid) | [My Solution](./problems/problem2328) | ✅ |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) | [My Solution](./problems/problem2331) | ✅ |
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | [My Solution](./problems/problem2336) | ✅ |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [My Solution](./problems/problem2348) | ✅ |

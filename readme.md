@@ -386,6 +386,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome) | [My Solution](./problems/problem1328) | ✅ |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally) | [My Solution](./problems/problem1329) | ✅ |
 | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences) | [My Solution](./problems/problem1332) | ✅ |
+| 1333 | [Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance) | [My Solution](./problems/problem1333) | ✅ |
 | 1335 | [Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule) | [My Solution](./problems/problem1335) | ✅ |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half) | [My Solution](./problems/problem1338) | ✅ |
 | 1339 | [Maximum Product of Split Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree) | [My Solution](./problems/problem1339) | ✅ |

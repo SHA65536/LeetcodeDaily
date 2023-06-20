@@ -475,6 +475,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2007 | [Find Original Array From Doubled Array](https://leetcode.com/problems/find-original-array-from-doubled-array) | [My Solution](./problems/problem2007) | ✅ |
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [My Solution](./problems/problem2017) | ✅ |
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [My Solution](./problems/problem2070) | ✅ |
+| 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) | [My Solution](./problems/problem2090) | ✅ |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [My Solution](./problems/problem2095) | ✅ |
 | 2101 | [Detonate the Maximum Bombs](https://leetcode.com/problems/detonate-the-maximum-bombs) | [My Solution](./problems/problem2101) | ✅ |
 | 2129 | [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title) | [My Solution](./problems/problem2129) | ✅ |

@@ -22,18 +22,18 @@ func longestArithSeqLength(nums []int) int {
 		cache[i] = make([]int, maxDiff)
 	}
 
-	// starting from each number
+	// Starting from each number
 	for i := range nums {
-		// with jump to each number after it
+		// With jump to each number after it
 		for j := i + 1; j < len(nums); j++ {
-			// since a difference can be negative, if the first
+			// Since a difference can be negative, if the first
 			// number is larger, we add half of the maximum diff
 			// so it'll always be positive
 			diff := nums[j] - nums[i] + (maxDiff / 2)
-			// if the current pair and diff are part of a larger sequence
-			// increase their value
+			// Update the current difference length according to
+			// the length of the last sequence with this difference
 			cache[j][diff] = max(2, cache[i][diff]+1)
-			// pick the largest
+			// Pick the largest
 			res = max(res, cache[j][diff])
 		}
 	}

@@ -348,6 +348,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1013 | [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum) | [My Solution](./problems/problem1013) | ✅ |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [My Solution](./problems/problem1020) | ✅ |
 | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor) | [My Solution](./problems/problem1026) | ✅ |
+| 1027 | [Longest Arithmetic Subsequence](https://leetcode.com/problems/longest-arithmetic-subsequence) | [My Solution](./problems/problem1027) | ✅ | 
 | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines) | [My Solution](./problems/problem1035) | ✅ |
 | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree) | [My Solution](./problems/problem1038) | ✅ |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [My Solution](./problems/problem1046) | ✅ |

@@ -327,6 +327,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens) | [My Solution](./problems/problem0948) | ✅ |
 | 0951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees) | [My Solution](./problems/problem0951) | ✅ |
 | 0953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary) | [My Solution](./problems/problem0953) | ✅ |
+| 0956 | [Tallest Billboard](https://leetcode.com/problems/tallest-billboard) | [My Solution](./problems/problem0956) | ✅ |
 | 0958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree) | [My Solution](./problems/problem0958) | ✅ |
 | 0967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences) | [My Solution](./problems/problem0967) | ✅ |
 | 0968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras) | [My Solution](./problems/problem0968) | ✅ |

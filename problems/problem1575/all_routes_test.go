@@ -19,7 +19,7 @@ var TestCases = []TestCase{
 	{[]int{5, 2, 1}, 0, 2, 3, 0},
 }
 
-func TestTallestBillboard(t *testing.T) {
+func TestNumberOfRoutesWithFuel(t *testing.T) {
 	assert := assert.New(t)
 
 	for _, tc := range TestCases {
@@ -29,7 +29,7 @@ func TestTallestBillboard(t *testing.T) {
 	}
 }
 
-func BenchmarkTallestBillboard(b *testing.B) {
+func BenchmarkNumberOfRoutesWithFuel(b *testing.B) {
 	for i := 0; i < b.N; i++ {
 		for _, tc := range TestCases {
 			countRoutes(tc.Cities, tc.Start, tc.Finish, tc.Fuel)

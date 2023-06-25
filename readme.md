@@ -433,6 +433,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1557 | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes) | [My Solution](./problems/problem1557) | ✅ |
 | 1569 | [Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst) | [My Solution](./problems/problem1569) | ✅ |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum) | [My Solution](./problems/problem1572) | ✅ |
+| 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes) | [My Solution](./problems/problem1575) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | [My Solution](./problems/problem1579) | ✅ |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [My Solution](./problems/problem1603) | ✅ |

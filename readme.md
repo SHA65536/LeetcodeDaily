@@ -295,6 +295,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [My Solution](./problems/problem0844) | ✅ |
 | 0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [My Solution](./problems/problem0848) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problems/problem0858) | ✅ |
+| 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [My Solution](./problems/problem0859) | ✅ |
 | 0864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys) | [My Solution](./problems/problem0864) | ✅ |
 | 0867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) | [My Solution](./problems/problem0867) | ✅ |
 | 0869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2) | [My Solution](./problems/problem0869) | ✅ |

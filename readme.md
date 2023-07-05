@@ -426,6 +426,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history) | [My Solution](./problems/problem1472) | ✅ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [My Solution](./problems/problem1480) | ✅ |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [My Solution](./problems/problem1491) | ✅ |
+| 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [My Solution](./problems/problem1493) | ✅ |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [My Solution](./problems/problem1496) | ✅ |
 | 1498 | [Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) | [My Solution](./problems/problem1498) | ✅ |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence) | [My Solution](./problems/problem1502) | ✅ |

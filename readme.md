@@ -507,6 +507,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2246 | [Longest Path With Different Adjacent Characters](https://leetcode.com/problems/longest-path-with-different-adjacent-characters) | [My Solution](./problems/problem0000) | ✅ |
 | 2256 | [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/) | [My Solution](./problems/problem2256) | ✅ |
 | 2259 | [Remove Digit From Number to Maximize Result](https://leetcode.com/problems/remove-digit-from-number-to-maximize-result) | [My Solution](./problems/problem2259) | ✅ |
+| 2272 | [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance) | [My Solution](./problems/problem2272) | ✅ |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string) | [My Solution](./problems/problem2278) | ✅ |
 | 2279 | [Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks) | [My Solution](./problems/problem2279) | ✅ |
 | 2284 | [Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count) | [My Solution](./problems/problem2284) | ✅ |

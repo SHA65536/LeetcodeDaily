@@ -94,6 +94,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [My Solution](./problems/problem0108) | ✅ |
 | 0109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [My Solution](./problems/problem0109) | ✅ |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [My Solution](./problems/problem0110) | ✅ |
+| 0111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | [My Solution](./problems/problem0111) | ✅ |
 | 0112 | [Path Sum](https://leetcode.com/problems/path-sum) | [My Solution](./problems/problem0112) | ✅ |
 | 0113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii) | [My Solution](./problems/problem0113) | ✅ |
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [My Solution](./problems/problem0114) | ✅ |

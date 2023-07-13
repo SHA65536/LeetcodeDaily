@@ -133,6 +133,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [My Solution](./problems/problem0202) | ✅ |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [My Solution](./problems/problem0205) | ✅ |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | [My Solution](./problems/problem0206) | ✅ |
+| 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | [My Solution](./problems/problem0207) | ✅ | 
 | 0208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) | [My Solution](./problems/problem0208) | ✅ |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | [My Solution](./problems/problem0209) | ✅ |
 | 0211 | [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) | [My Solution](./problems/problem0211) | ✅ |

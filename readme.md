@@ -383,6 +383,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1207 | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [My Solution](./problems/problem1207) | ✅ |
 | 1218 | [Longest Arithmetic Subsequence of Given Difference](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference) | [My Solution](./problems/problem1218) | ✅ |
 | 1220 | [Count Vowels Permutation](https://leetcode.com/problems/count-vowels-permutation) | [My Solution](./problems/problem1220) | ✅ |
+| 1125 | [Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team) | [My Solution](./problems/problem1125) | ✅ |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | [My Solution](./problems/problem1232) | ✅ |
 | 1235 | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | [My Solution](./problems/problem1235) | ✅ |
 | 1239 | [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | [My Solution](./problems/problem1239) | ✅ |    

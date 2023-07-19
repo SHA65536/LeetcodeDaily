@@ -205,6 +205,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0427 | [Construct Quad Tree](https://leetcode.com/problems/construct-quad-tree) | [My Solution](./problems/problem0427) | ✅ |
 | 0429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal) | [My Solution](./problems/problem0429) | ✅ |
 | 0433 | [Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation) | [My Solution](./problems/problem0433) | ✅ |
+| 0435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) | [My Solution](./problems/problem0435) | ✅ |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [My Solution](./problems/problem0438) | ✅ |
 | 0443 | [String Compression](https://leetcode.com/problems/string-compression) | [My Solution](./problems/problem0443) | ✅ |
 | 0445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii) | [My Solution](./problems/problem0445) | ✅ |

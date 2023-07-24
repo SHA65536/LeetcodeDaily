@@ -321,6 +321,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition) | [My Solution](./problems/problem0886) | ✅ |
 | 0888 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap) | [My Solution](./problems/problem0888) | ✅ |
 | 0890 | [Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern) | [My Solution](./problems/problem0890) | ✅ |
+| 0894 | [All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees) | [My Solution](./problems/problem0894) | ✅ |
 | 0899 | [Orderly Queue](https://leetcode.com/problems/orderly-queue) | [My Solution](./problems/problem0899) | ✅ |
 | 0901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span) | [My Solution](./problems/problem0901) | ✅ |
 | 0904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets) | [My Solution](./problems/problem0904) | ✅ |

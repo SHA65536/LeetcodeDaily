@@ -306,6 +306,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms) | [My Solution](./problems/problem0841) | ✅ |
 | 0844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [My Solution](./problems/problem0844) | ✅ |
 | 0848 | [Shifting Letters](https://leetcode.com/problems/shifting-letters) | [My Solution](./problems/problem0848) | ✅ |
+| 0852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) | [My Solution](./problems/problem0852) | ✅ |
 | 0858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection) | [My Solution](./problems/problem0858) | ✅ |
 | 0859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings) | [My Solution](./problems/problem0859) | ✅ |
 | 0863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree) | [My Solution](./problems/problem0863) | ✅ |

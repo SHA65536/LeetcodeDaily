@@ -493,6 +493,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k) | [My Solution](./problems/problem1837) | ✅ |
 | 1844 | [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters) | [My Solution](./problems/problem1844) | ✅ |
 | 1857 | [Largest Color Value in a Directed Graph](https://leetcode.com/problems/largest-color-value-in-a-directed-graph) | [My Solution](./problems/problem1857) | ✅ |
+| 1870 | [Minimum Speed to Arrive on Time](https://leetcode.com/problems/minimum-speed-to-arrive-on-time) | [My Solution](./problems/problem1870) | ✅ |
 | 1876 | [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) | [My Solution](./problems/problem1876) | ✅ |
 | 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze) | [My Solution](./problems/problem1926) | ✅ |
 | 1962 | [Remove Stones to Minimize the Total](https://leetcode.com/problems/remove-stones-to-minimize-the-total) | [My Solution](./problems/problem1962) | ✅ |

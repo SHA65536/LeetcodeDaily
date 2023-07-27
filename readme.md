@@ -514,6 +514,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words) | [My Solution](./problems/problem2131) | ✅ |
 | 2136 | [Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom) | [My Solution](./problems/problem2136) | ✅ |
 | 2140 | [Solving Questions With Brainpower](https://leetcode.com/problems/solving-questions-with-brainpower) | [My Solution](./problems/problem2140) | ✅ |
+| 2141 | [Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/) | [My Solution](./problems/problem2141) | ✅ |
 | 2148 | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements) | [My Solution](./problems/problem2148) | ✅ |
 | 2165 | [Smallest Value of the Rearranged Number](https://leetcode.com/problems/smallest-value-of-the-rearranged-number/) | [My Solution](./problems/problem2165) | ✅ |
 | 2187 | [Minimum Time to Complete Trips](https://leetcode.com/problems/minimum-time-to-complete-trips) | [My Solution](./problems/problem2187) | ✅ |

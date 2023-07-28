@@ -221,6 +221,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words) | [My Solution](./problems/problem0472) | ✅ |
 | 0473 | [Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square) | [My Solution](./problems/problem0473) | ✅ |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | [My Solution](./problems/problem0476) | ✅ |
+| 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner) | [My Solution](./problems/problem0486) | ✅ |
 | 0491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences) | [My Solution](./problems/problem0491) | ✅ |
 | 0501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree) | [My Solution](./problems/problem0501) | ✅ |
 | 0502 | [IPO](https://leetcode.com/problems/ipo) | [My Solution](./problems/problem0502) | ✅ |

@@ -263,6 +263,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | [My Solution](./problems/problem0658) | ✅ |
 | 0659 | [Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences) | [My Solution](./problems/problem0659) | ✅ |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | [My Solution](./problems/problem0662) | ✅ |
+| 0664 | [Strange Printer](https://leetcode.com/problems/strange-printer) | [My Solution](./problems/problem0664) | ✅ |
 | 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | [My Solution](./problems/problem0665) | ✅ |
 | 0671 | [Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree) | [My Solution](./problems/problem0671) | ✅ |
 | 0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) | [My Solution](./problems/problem0673) | ✅ |

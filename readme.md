@@ -296,6 +296,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [My Solution](./problems/problem0797) | ✅ |
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | [My Solution](./problems/problem0802) | ✅ |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [My Solution](./problems/problem0804) | ✅ |
+| 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | [My Solution](./problems/problem0808) | ✅ |
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [My Solution](./problems/problem0814) | ✅ |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [My Solution](./problems/problem0820) | ✅ |
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problems/problem0823) | ✅ |

@@ -274,6 +274,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problems/problem0704) | ✅ |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | [My Solution](./problems/problem0705) | ✅ |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [My Solution](./problems/problem0709) | ✅ |
+| 0712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [My Solution](./problems/problem0712) | ✅ |
 | 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [My Solution](./problems/problem0714) | ✅ |
 | 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | [My Solution](./problems/problem0718) | ✅ |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [My Solution](./problems/problem0724) | ✅ |

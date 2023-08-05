@@ -83,6 +83,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [My Solution](./problems/problem0092) | ✅ |
 | 0093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses) | [My Solution](./problems/problem0093) | ✅ |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [My Solution](./problems/problem0094) | ✅ |
+| 0095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [My Solution](./problems/problem0095) | ✅ |
 | 0097 | [Interleaving String](https://leetcode.com/problems/interleaving-string) | [My Solution](./problems/problem0097) | ✅ |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | [My Solution](./problems/problem0098) | ✅ |
 | 0100 | [Same Tree](https://leetcode.com/problems/same-tree) | [My Solution](./problems/problem0100) | ✅ |

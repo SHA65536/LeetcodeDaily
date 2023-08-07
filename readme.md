@@ -72,6 +72,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [My Solution](./problems/problem0070) | ✅ |
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [My Solution](./problems/problem0071) | ✅ |
 | 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance) | [My Solution](./problems/problem0072) | ✅ |
+| 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [My Solution](./problems/problem0074) | ✅ |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | [My Solution](./problems/problem0076) | ✅ |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | [My Solution](./problems/problem0077) | ✅ |
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | [My Solution](./problems/problem0079) | ✅ |

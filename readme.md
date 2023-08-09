@@ -568,6 +568,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile) | [My Solution](./problems/problem2558) | ✅ |
 | 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [My Solution](./problems/problem2562) | ✅ |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | [My Solution](./problems/problem2605) | ✅ |
+| 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [My Solution](./problems/problem2616) | ✅ |
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problems/problem0000) | ✅ | -->

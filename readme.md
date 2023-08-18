@@ -469,7 +469,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | [My Solution](./problems/problem1579) | ✅ |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests) | [My Solution](./problems/problem1601) | ✅ |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [My Solution](./problems/problem1603) | ✅ |
-| 1609 | [Even Odd Tree](https://leetcode.com/problems/even-odd-tree) | [My Solution](./problems/problem1609) | ✅ |
+| 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank) | [My Solution](./problems/problem1615) | ✅ |
 | 1626 | [Best Team With No Conflicts](https://leetcode.com/problems/best-team-with-no-conflicts) | [My Solution](./problems/problem1626) | ✅ |
 | 1629 | [Slowest Key](https://leetcode.com/problems/slowest-key) | [My Solution](./problems/problem1629) | ✅ |
 | 1639 | [Number of Ways to Form a Target String Given a Dictionary](https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary) | [My Solution](./problems/problem1639) | ✅ |

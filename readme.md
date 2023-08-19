@@ -450,6 +450,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | [My Solution](./problems/problem1470) | ✅ |
 | 1472 | [Design Browser History](https://leetcode.com/problems/design-browser-history) | [My Solution](./problems/problem1472) | ✅ |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) | [My Solution](./problems/problem1480) | ✅ |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | [My Solution](./problems/problem1489) | ✅ |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | [My Solution](./problems/problem1491) | ✅ |
 | 1493 | [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) | [My Solution](./problems/problem1493) | ✅ |
 | 1496 | [Path Crossing](https://leetcode.com/problems/path-crossing) | [My Solution](./problems/problem1496) | ✅ |

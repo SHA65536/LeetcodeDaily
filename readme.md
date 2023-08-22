@@ -130,6 +130,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) | [My Solution](./problems/problem0151) | ✅ |
 | 0160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [My Solution](./problems/problem0160) | ✅ |
 | 0167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [My Solution](./problems/problem0167) | ✅ |
+| 0168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [My Solution](./problems/problem0168) | ✅ |
 | 0188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv) | [My Solution](./problems/problem0188) | ✅ |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | [My Solution](./problems/problem0189) | ✅ |
 | 0198 | [House Robber](https://leetcode.com/problems/house-robber) | [My Solution](./problems/problem0198) | ✅ |

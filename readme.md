@@ -68,6 +68,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [My Solution](./problems/problem0064) | ✅ |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [My Solution](./problems/problem0066) | ✅ |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | [My Solution](./problems/problem0067) | ✅ |
+| 0068 | [Text Justification](https://leetcode.com/problems/text-justification) | [My Solution](./problems/problem0068) | ✅ |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [My Solution](./problems/problem0069) | ✅ |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [My Solution](./problems/problem0070) | ✅ |
 | 0071 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [My Solution](./problems/problem0071) | ✅ |

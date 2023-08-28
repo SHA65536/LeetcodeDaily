@@ -153,6 +153,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [My Solution](./problems/problem0222) | ✅ |
 | 0223 | [Rectangle Area](https://leetcode.com/problems/rectangle-area) | [My Solution](./problems/problem0223) | ✅ |
 | 0224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | [My Solution](./problems/problem0224) | ✅ |
+| 0225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [My Solution](./problems/problem0225) | ✅ |
 | 0226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) | [My Solution](./problems/problem0226) | ✅ |
 | 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | [My Solution](./problems/problem0228) | ✅ |
 | 0232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [My Solution](./problems/problem0232) | ✅ |

@@ -569,6 +569,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers) | [My Solution](./problems/problem2462) | ✅ |
 | 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings) | [My Solution](./problems/problem2466) | ✅ |
 | 2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital) | [My Solution](./problems/problem2477) | ✅ |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop) | [My Solution](./problems/problem2483) | ✅ |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | [My Solution](./problems/problem2492) | ✅ |
 | 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students) | [My Solution](./problems/problem2512) | ✅ |
 | 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score) | [My Solution](./problems/problem2542) | ✅ |

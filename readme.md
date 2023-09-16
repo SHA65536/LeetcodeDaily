@@ -580,6 +580,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2562 | [Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value) | [My Solution](./problems/problem2562) | ✅ |
 | 2605 | [Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays) | [My Solution](./problems/problem2605) | ✅ |
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [My Solution](./problems/problem2616) | ✅ |
+| 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string) | [My Solution](./problems/problem2707) | ✅ |
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problems/problem0000) | ✅ | -->

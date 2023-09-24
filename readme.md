@@ -306,6 +306,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling) | [My Solution](./problems/problem0790) | ✅ |
 | 0792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences) | [My Solution](./problems/problem0792) | ✅ |
 | 0797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target) | [My Solution](./problems/problem0797) | ✅ |
+| 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower) | [My Solution](./problems/problem0799) | ✅ | 
 | 0802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states) | [My Solution](./problems/problem0802) | ✅ |
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [My Solution](./problems/problem0804) | ✅ |
 | 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | [My Solution](./problems/problem0808) | ✅ |

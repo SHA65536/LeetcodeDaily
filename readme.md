@@ -201,6 +201,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node) | [My Solution](./problems/problem0382) | ✅ |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | [My Solution](./problems/problem0383) | ✅ |
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | [My Solution](./problems/problem0387) | ✅ |
+| 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | [My Solution](./problems/problem0389) | ✅ |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [My Solution](./problems/problem0392) | ✅ |
 | 0393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation) | [My Solution](./problems/problem0393) | ✅ |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string/) | [My Solution](./problems/problem0394) | ✅ |

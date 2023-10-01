@@ -19,3 +19,23 @@ func reverseWords(s string) string {
 	}
 	return res[1:]
 }
+
+func reverseWordsOpt(s string) string {
+	var res = []byte(s)
+	var last int
+	for i := 1; i < len(s); i++ {
+		if s[i] == ' ' {
+			reverse(res[last:i])
+			last = i + 1
+		}
+	}
+	reverse(res[last:len(s)])
+	return string(res)
+}
+
+func reverse(slice []byte) {
+	length := len(slice)
+	for i := 0; i < length/2; i++ {
+		slice[i], slice[length-1-i] = slice[length-1-i], slice[i]
+	}
+}

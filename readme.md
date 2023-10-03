@@ -335,6 +335,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | [My Solution](./problems/problem0875) | ✅ |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [My Solution](./problems/problem0876) | ✅ |
 | 0879 | [Profitable Schemes](https://leetcode.com/problems/profitable-schemes) | [My Solution](./problems/problem0879) | ✅ |
+| 0880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index) | [My Solution](./problems/problem0880) | ✅ |
 | 0881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) | [My Solution](./problems/problem0881) | ✅ |
 | 0885 | [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii) | [My Solution](./problems/problem0885) | ✅ |
 | 0886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition) | [My Solution](./problems/problem0886) | ✅ |

@@ -284,6 +284,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0703 | [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream) | [My Solution](./problems/problem0703) | ✅ |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | [My Solution](./problems/problem0704) | ✅ |
 | 0705 | [Design HashSet](https://leetcode.com/problems/design-hashset) | [My Solution](./problems/problem0705) | ✅ |
+| 0706 | [Design HashMap](https://leetcode.com/problems/design-hashmap) | [My Solution](./problems/problem0706) | ✅ |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | [My Solution](./problems/problem0709) | ✅ |
 | 0712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings) | [My Solution](./problems/problem0712) | ✅ |
 | 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | [My Solution](./problems/problem0714) | ✅ |

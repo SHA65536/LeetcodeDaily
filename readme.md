@@ -398,6 +398,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1071 | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings) | [My Solution](./problems/problem1071) | ✅ |
 | 1074 | [Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target) | [My Solution](./problems/problem1074) | ✅ | 
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | [My Solution](./problems/problem1091) | ✅ |
+| 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array) | [My Solution](./problems/problem1095) | ✅ | 
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people) | [My Solution](./problems/problem1103) | ✅ |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves) | [My Solution](./problems/problem1123) | ✅ |
 | 1129 | [Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors) | [My Solution](./problems/problem1129) | ✅ |

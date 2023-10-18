@@ -533,6 +533,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2017 | [Grid Game](https://leetcode.com/problems/grid-game) | [My Solution](./problems/problem2017) | ✅ |
 | 2024 | [Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam) | [My Solution](./problems/problem2024) | ✅ |
 | 2038 | [Remove Colored Pieces if Both Neighbors are the Same Color](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color) | [My Solution](./problems/problem2038) | ✅ |
+| 2050 | [Parallel Courses III](https://leetcode.com/problems/parallel-courses-iii) | [My Solution](./problems/problem2050) | ✅ |
 | 2070 | [Most Beautiful Item for Each Query](https://leetcode.com/problems/most-beautiful-item-for-each-query) | [My Solution](./problems/problem2070) | ✅ |
 | 2090 | [K Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages) | [My Solution](./problems/problem2090) | ✅ |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [My Solution](./problems/problem2095) | ✅ |

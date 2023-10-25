@@ -305,6 +305,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [My Solution](./problems/problem0746) | ✅ |
 | 0766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix) | [My Solution](./problems/problem0766) | ✅ |
 | 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string) | [My Solution](./problems/problem0767) | ✅ |
+| 0779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar) | [My Solution](./problems/problem0779) | ✅ |
 | 0783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes) | [My Solution](./problems/problem0783) | ✅ |
 | 0785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite) | [My Solution](./problems/problem0785) | ✅ |
 | 0787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) | [My Solution](./problems/problem0787) | ✅ |

@@ -32,3 +32,34 @@ func largestValues(root *TreeNode) []int {
 	}
 	return res
 }
+
+func largestValuesRec(root *TreeNode) []int {
+	var res []int
+	var solve func(*TreeNode, int)
+
+	if root == nil {
+		return nil
+	}
+
+	solve = func(tn *TreeNode, i int) {
+		if i >= len(res) {
+			res = append(res, tn.Val)
+		} else {
+			if res[i] < tn.Val {
+				res[i] = tn.Val
+			}
+		}
+
+		if tn.Left != nil {
+			solve(tn.Left, i+1)
+		}
+
+		if tn.Right != nil {
+			solve(tn.Right, i+1)
+		}
+	}
+
+	solve(root, 0)
+
+	return res
+}

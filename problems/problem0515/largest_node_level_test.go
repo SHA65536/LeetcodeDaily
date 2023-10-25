@@ -27,3 +27,29 @@ func TestLargestNodeLevel(t *testing.T) {
 		assert.Equal(want, got, fmt.Sprintf("%+v", res))
 	}
 }
+
+func BenchmarkLargestNodeLevel(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			largestValues(res.Input)
+		}
+	}
+}
+
+func TestLargestNodeLevelRec(t *testing.T) {
+	assert := assert.New(t)
+
+	for _, res := range Results {
+		want := res.Expected
+		got := largestValuesRec(res.Input)
+		assert.Equal(want, got, fmt.Sprintf("%+v", res))
+	}
+}
+
+func BenchmarkLargestNodeLevelRec(b *testing.B) {
+	for i := 0; i < b.N; i++ {
+		for _, res := range Results {
+			largestValuesRec(res.Input)
+		}
+	}
+}

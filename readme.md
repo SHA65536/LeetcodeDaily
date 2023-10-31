@@ -578,6 +578,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2405 | [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string) | [My Solution](./problems/problem2405) | ✅ |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | [My Solution](./problems/problem2413) | ✅ |
 | 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths) | [My Solution](./problems/problem2421) | ✅ |
+| 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor) | [My Solution](./problems/problem2433) | ✅ |
 | 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array) | [My Solution](./problems/problem2439) | ✅ |
 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds) | [My Solution](./problems/problem2444) | ✅ |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal) | [My Solution](./problems/problem2448) | ✅ |

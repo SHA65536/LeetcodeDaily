@@ -12,8 +12,8 @@ void unreserve(int seatNumber) Unreserves the seat with the given seatNumber.
 */
 
 type SeatManager struct {
-	Seats *Heap
-	Last  int
+	Seats *Heap // Unreserved Seats
+	Last  int   // Last unreserved seat
 }
 
 func Constructor(n int) SeatManager {
@@ -24,17 +24,23 @@ func Constructor(n int) SeatManager {
 }
 
 func (s *SeatManager) Reserve() int {
+	// If we ran out of reused seats
 	if s.Seats.Len() == 0 {
+		// Add the last unreserved seat
 		heap.Push(s.Seats, s.Last)
+		// Update the next one
 		s.Last++
 	}
+	// Return the first unreserved (reused or new)
 	return heap.Pop(s.Seats).(int)
 }
 
 func (s *SeatManager) Unreserve(seatNumber int) {
+	// Return the given seat to the pool
 	heap.Push(s.Seats, seatNumber)
 }
 
+// Heap implementation
 type Heap struct {
 	Values   []int
 	LessFunc func(int, int) bool

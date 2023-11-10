@@ -508,6 +508,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | [My Solution](./problems/problem1710) | ✅ |
 | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list) | [My Solution](./problems/problem1721) | ✅ |
 | 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) | [My Solution](./problems/problem1732) | ✅ |
+| 1743 | [Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs) | [My Solution](./problems/problem1743) | ✅ | 
 | 1751 | [Maximum Number of Events That Can Be Attended II](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii) | [My Solution](./problems/problem1751) | ✅ |
 | 1759 | [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings) | [My Solution](./problems/problem1759) | ✅ | 
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) | [My Solution](./problems/problem1768) | ✅ |

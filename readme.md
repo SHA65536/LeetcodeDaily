@@ -317,6 +317,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 0804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words) | [My Solution](./problems/problem0804) | ✅ |
 | 0808 | [Soup Servings](https://leetcode.com/problems/soup-servings) | [My Solution](./problems/problem0808) | ✅ |
 | 0814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning) | [My Solution](./problems/problem0814) | ✅ |
+| 0815 | [Bus Routes](https://leetcode.com/problems/bus-routes) | [My Solution](./problems/problem0815) | ✅ |
 | 0820 | [Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words) | [My Solution](./problems/problem0820) | ✅ |
 | 0823 | [Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors) | [My Solution](./problems/problem0823) | ✅ |
 | 0834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/description) | [My Solution](./problems/problem0834) | ✅ |

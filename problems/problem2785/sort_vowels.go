@@ -37,3 +37,28 @@ func sortVowels(s string) string {
 	}
 	return string(res)
 }
+
+var idxs = [256]int{'A': 1, 'E': 2, 'I': 3, 'O': 4, 'U': 5, 'a': 6, 'e': 7, 'i': 8, 'o': 9, 'u': 10}
+var idxToVow = [11]byte{0, 'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u'}
+
+func sortVowelsOpt(s string) string {
+	var vowels = [11]int{}
+	var res = []byte(s)
+	for i := range res {
+		if idxs[res[i]] > 0 {
+			vowels[idxs[res[i]]]++
+		}
+	}
+	var cur int = 1
+	for i := range res {
+		if idxs[res[i]] == 0 {
+			continue
+		}
+		for vowels[cur] == 0 {
+			cur++
+		}
+		res[i] = idxToVow[cur]
+		vowels[cur]--
+	}
+	return string(res)
+}

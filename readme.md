@@ -603,6 +603,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2616 | [Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) | [My Solution](./problems/problem2616) | ✅ |
 | 2642 | [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator) | [My Solution](./problems/problem2642) | ✅ |
 | 2707 | [Extra Characters in a String](https://leetcode.com/problems/extra-characters-in-a-string) | [My Solution](./problems/problem2707) | ✅ |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | [My Solution](./problems/problem2785) | ✅ |
 
 <!-- 🚧 -->
 <!--| 0000 | [Name](Link) | [My Solution](./problems/problem0000) | ✅ | -->

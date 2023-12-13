@@ -486,6 +486,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 1575 | [Count All Possible Routes](https://leetcode.com/problems/count-all-possible-routes) | [My Solution](./problems/problem1575) | ✅ |
 | 1578 | [Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful) | [My Solution](./problems/problem1578) | ✅ |
 | 1579 | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable) | [My Solution](./problems/problem1579) | ✅ |
+| 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | [My Solution](./problems/problem1582) | ✅ |
 | 1601 | [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests) | [My Solution](./problems/problem1601) | ✅ |
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system) | [My Solution](./problems/problem1603) | ✅ |
 | 1615 | [Maximal Network Rank](https://leetcode.com/problems/maximal-network-rank) | [My Solution](./problems/problem1615) | ✅ |

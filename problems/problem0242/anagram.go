@@ -6,13 +6,13 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 */
 
 func isAnagram(s string, t string) bool {
-	var freq = map[byte]int{}
+	var freq [26]int
 	if len(s) != len(t) {
 		return false
 	}
 	for i := range s {
-		freq[s[i]]++
-		freq[t[i]]--
+		freq[s[i]-'a']++
+		freq[t[i]-'a']--
 	}
 	for _, v := range freq {
 		if v != 0 {

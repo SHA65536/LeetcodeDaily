@@ -578,6 +578,7 @@ Each problem is in it's own directory, with test files. There are helper package
 | 2336 | [Smallest Number in Infinite Set](https://leetcode.com/problems/smallest-number-in-infinite-set) | [My Solution](./problems/problem2336) | ✅ |
 | 2348 | [Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays) | [My Solution](./problems/problem2348) | ✅ |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs) | [My Solution](./problems/problem2352) | ✅ |
+| 2353 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system) | [My Solution](./problems/problem2353) | ✅ |
 | 2359 | [Find Closest Node to Given Two Nodes](https://leetcode.com/problems/find-closest-node-to-given-two-nodes) | [My Solution](./problems/problem2359) | ✅ |
 | 2360 | [Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph) | [My Solution](./problems/problem2360) | ✅ |
 | 2366 | [Minimum Replacements to Sort the Array](https://leetcode.com/problems/minimum-replacements-to-sort-the-array) | [My Solution](./problems/problem2366) | ✅ |
